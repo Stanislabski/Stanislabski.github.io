@@ -1,10 +1,10 @@
 ---
 ---
+{% include section.html %}
 
-# Lab Website Template
+# Personalizing wellness through the science of the microbiome
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+## Documentation
 
 {%
   include button.html
@@ -18,13 +18,11 @@ Spend less time worrying about managing a website and citations, and more time r
   link="greenelab/lab-website-template"
 %}
 
-{% include section.html %}
-
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We investigate how clinical dietary and exercise interventions influence the microbiome and other molecular pathways, such as metabolomics and DNA methylation, using advanced statistical and epidemiological methods.
 
 {%
   include button.html
@@ -41,13 +39,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="What We Do"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We aim to personalize diet and exercise strategies to improve cardiometabolic health, with a focus on understanding how these effects vary across diverse populations.
 
 {%
   include button.html
@@ -64,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Goal"
   flip=true
   style="bare"
   text=text

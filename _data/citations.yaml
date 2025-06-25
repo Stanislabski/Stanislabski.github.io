@@ -1,247 +1,1431 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/2024.03.20.585968
+  title: 'EXPLANA: A user-friendly workflow for EXPLoratory ANAlysis and feature selection
+    in cross-sectional and longitudinal microbiome studies'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Jennifer Fouquier
+  - Maggie Stanislawski
+  - "John O\u2019Connor"
+  - Ashley Scadden
+  - Catherine Lozupone
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-03-23'
+  link: https://doi.org/g9q9dk
+  orcid: 0000-0001-7603-1442
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s43856-023-00359-w
+  title: 'Treatment effect heterogeneity following type 2 diabetes treatment with
+    GLP1-receptor agonists and SGLT2-inhibitors: a systematic review'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Katherine G. Young
+  - Eram Haider McInnes
+  - Robert J. Massey
+  - Anna R. Kahkoska
+  - Scott J. Pilla
+  - Sridharan Raghavan
+  - Maggie A. Stanislawski
+  - Deirdre K. Tobias
+  - Andrew P. McGovern
+  - Adem Y. Dawed
+  - Angus G. Jones
+  - Ewan R. Pearson
+  - John M. Dennis
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridaran Raghaven
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/g9q9dm
+  orcid: 0000-0001-7768-8868
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2022.09.14.508056
+  title: Poly-omic risk scores predict inflammatory bowel disease diagnosis
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Christopher H. Arehart
+  - John D. Sterrett
+  - Rosanna L. Garris
+  - Ruth E. Quispe-Pilco
+  - Christopher R. Gignoux
+  - Luke M. Evans
+  - Maggie A. Stanislawski
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-09-17'
+  link: https://doi.org/g9q9dn
+  orcid: 0000-0001-7768-8868
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: pmid:34579125
+  title: The Gut Microbiota during a Behavioral Weight Loss Intervention.
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Maggie A Stanislawski
+  - Daniel N Frank
+  - Sarah J Borengasser
+  - Danielle M Ostendorf
+  - Diana Ir
+  - Purevsuren Jambal
+  - Kristen Bing
+  - Liza Wayland
+  - Janet C Siebert
+  - Daniel H Bessesen
+  - Paul S MacLean
+  - Edward L Melanson
+  - Victoria A Catenacci
+  publisher: Nutrients
+  date: '2021-09-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34579125
+  orcid: 0000-0001-7768-8868
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: pmid:34988495
+  title: 'Characterization of the gut microbiota among Veterans with unique military-related
+    exposures and high prevalence of chronic health conditions: A United States-Veteran
+    Microbiome Project (US-VMP) study.'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Maggie A Stanislawski
+  - Christopher E Stamper
+  - Kelly A Stearns-Yoder
+  - Andrew J Hoisington
+  - Diana P Brostow
+  - Jeri E Forster
+  - Teodor T Postolache
+  - Christopher A Lowry
+  - Lisa A Brenner
+  publisher: Brain, behavior, & immunity - health
+  date: '2021-09-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34988495
+  orcid: 0000-0001-7768-8868
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: pmid:34257098
+  title: 'Genetic Risk Score for Type 2 Diabetes and Traits Related to Glucose-Insulin
+    Homeostasis in Youth: The Exploring Perinatal Outcomes Among Children (EPOCH)
+    Study.'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Maggie A Stanislawski
+  - Elizabeth Litkowski
+  - Sridharan Raghavan
+  - Kylie K Harrall
+  - Jessica Shaw
+  - Deborah H Glueck
+  - Ethan M Lange
+  - Dana Dabelea
+  - Leslie A Lange
+  publisher: Diabetes care
+  date: '2021-07-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34257098
+  orcid: 0000-0001-7768-8868
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: pmid:34171361
+  title: "Associations of Nutrient Intake Changes During Childhood with Adolescent\
+    \ Hepatic Fat: The Exploring Perinatal Outcomes Among CHildren\_Study."
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Catherine C Cohen
+  - Wei Perng
+  - Katherine A Sauder
+  - Brandy M Ringham
+  - Anna Bellatorre
+  - Ann Scherzinger
+  - Maggie A Stanislawski
+  - Leslie A Lange
+  - Kartik Shankar
+  - Dana Dabelea
+  publisher: The Journal of pediatrics
+  date: '2021-06-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34171361
+  orcid: 0000-0001-7768-8868
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: pmid:34205853
+  title: 'Genetic Interactions with Intrauterine Diabetes Exposure in Relation to
+    Obesity: The EPOCH and Project Viva Studies.'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Maggie A Stanislawski
+  - Elizabeth Litkowski
+  - Ruby Fore
+  - Sheryl L Rifas-Shiman
+  - Emily Oken
+  - Marie-France Hivert
+  - Ethan M Lange
+  - Leslie A Lange
+  - Dana Dabelea
+  - Sridharan Raghavan
+  publisher: Pediatric reports
+  date: '2021-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34205853
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33910371
+  title: 'Soluble CD14 Levels in the Jackson Heart Study: Associations With Cardiovascular
+    Disease Risk and Genetic Variants.'
+  authors:
+  - Maggie A Stanislawski
+  - Leslie A Lange
+  - Laura M Raffield
+  - Neil A Zakai
+  - Mariah Meyer
+  - Kendra Ferrier
+  - Mindy D Szeto
+  - Colton Leavitt
+  - Jonathan A Shortt
+  - Timothy A Thornton
+  - Russell P Tracy
+  - Paul L Auer
+  - Alex P Reiner
+  - Ethan M Lange
+  - Nels C Olson
+  publisher: Arteriosclerosis, thrombosis, and vascular biology
+  date: '2021-04-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33910371
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33811477
+  title: Multiomic Predictors of Short-Term Weight Loss and Clinical Outcomes During
+    a Behavioral-Based Weight Loss Intervention.
+  authors:
+  - Janet C Siebert
+  - Maggie A Stanislawski
+  - Adnin Zaman
+  - Danielle M Ostendorf
+  - Iain R Konigsberg
+  - Purevsuren Jambal
+  - Diana Ir
+  - Kristen Bing
+  - Liza Wayland
+  - Jared J Scorsone
+  - Catherine A Lozupone
+  - "Carsten G\xF6rg"
+  - Daniel N Frank
+  - Daniel Bessesen
+  - Paul S MacLean
+  - Edward L Melanson
+  - Victoria A Catenacci
+  - Sarah J Borengasser
+  publisher: Obesity (Silver Spring, Md.)
+  date: '2021-04-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33811477
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/gmb.2021.1
+  title: 'Dietary habits and the gut microbiota in military Veterans: results from
+    the United States-Veteran Microbiome Project (US-VMP)'
+  authors:
+  - Diana P. Brostow
+  - Christopher E. Stamper
+  - Maggie A. Stanislawski
+  - Kelly A. Stearns-Yoder
+  - Alexandra Schneider
+  - Teodor T. Postolache
+  - Jeri E. Forster
+  - Andrew J. Hoisington
+  - Christopher A. Lowry
+  - Lisa A. Brenner
+  publisher: Gut Microbiome
+  date: '2021-01-01'
+  link: https://doi.org/g9q9dp
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32881767
+  title: 'Microbial Diversity and Community Structures Among Those With Moderate to
+    Severe TBI: A United States-Veteran Microbiome Project Study.'
+  authors:
+  - Lisa A Brenner
+  - Christopher E Stamper
+  - Andrew J Hoisington
+  - Kelly A Stearns-Yoder
+  - Maggie A Stanislawksi
+  - Diana P Brostow
+  - Claire A Hoffmire
+  - Jeri E Forster
+  - Alexandra L Schneider
+  - Teodor T Postolache
+  - Christopher A Lowry
+  publisher: The Journal of head trauma rehabilitation
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32881767
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32495698
+  title: Feasibility of collection and analysis of microbiome data in a longitudinal
+    randomized trial of community gardening.
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Mireia Gascon
+  - Kylie K Harrall
+  - Alyssa W Beavers
+  - Deborah H Glueck
+  - Maggie A Stanislawski
+  - Katherine Alaimo
+  - Angel Villalobos
+  - James R Hebert
+  - Kelsey Dexter
+  - Kaigang Li
+  - Jill Litt
+  publisher: Future microbiology
+  date: '2020-06-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32495698
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32345254
+  title: 'Variation in contrast-associated acute kidney injury prophylaxis for percutaneous
+    coronary intervention: insights from the Veterans Affairs Clinical Assessment,
+    Reporting, and Tracking (CART) program.'
+  authors:
+  - Joseph Walker Keach
+  - Maggie A Stanislawski
+  - "Anna E Bar\xF3n"
+  - Mary E Plomondon
+  - Paula Langner
+  - Amit Amin
+  - Heather M Gilmartin
+  - Stephen Waldo
+  - Thomas M Maddox
+  publisher: BMC nephrology
+  date: '2020-04-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32345254
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32210289
+  title: 'Development and Validation of a Semi-Automated Surveillance Algorithm for
+    Cardiac Device Infections: Insights from the VA CART program.'
+  authors:
+  - Archana Asundi
+  - Maggie Stanislawski
+  - Payal Mehta
+  - Hillary J Mull
+  - Marin L Schweizer
+  - "Anna E Bar\xF3n"
+  - P Michael Ho
+  - Kalpana Gupta
+  - Westyn Branch-Elliman
+  publisher: Scientific reports
+  date: '2020-03-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32210289
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32143931
+  title: 'Genetic Risk for Hepatic Fat among an Ethnically Diverse Cohort of Youth:
+    The Exploring Perinatal Outcomes among Children Study.'
+  authors:
+  - Maggie A Stanislawski
+  - Jessica Shaw
+  - Elizabeth Litkowski
+  - Ethan M Lange
+  - Wei Perng
+  - Dana Dabelea
+  - Leslie A Lange
+  publisher: The Journal of pediatrics
+  date: '2020-03-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32143931
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32000780
+  title: 'Novel methodology to measure pre-procedure antimicrobial prophylaxis: integrating
+    text searches with structured data from the Veterans Health Administration''s
+    electronic medical record.'
+  authors:
+  - Hillary J Mull
+  - Kelly Stolzmann
+  - Emily Kalver
+  - Marlena H Shin
+  - Marin L Schweizer
+  - Archana Asundi
+  - Payal Mehta
+  - Maggie Stanislawski
+  - Westyn Branch-Elliman
+  publisher: BMC medical informatics and decision making
+  date: '2020-01-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32000780
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31285833
+  title: Gut microbiota phenotypes of obesity.
+  authors:
+  - Maggie A Stanislawski
+  - Dana Dabelea
+  - Leslie A Lange
+  - Brandie D Wagner
+  - Catherine A Lozupone
+  publisher: NPJ biofilms and microbiomes
+  date: '2019-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31285833
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31159895
+  title: 'Real-world effectiveness of infection prevention interventions for reducing
+    procedure-related cardiac device infections: Insights from the veterans affairs
+    clinical assessment reporting and tracking program.'
+  authors:
+  - Archana Asundi
+  - Maggie Stanislawski
+  - Payal Mehta
+  - Anna E Baron
+  - Hillary J Mull
+  - P Michael Ho
+  - Peter J Zimetbaum
+  - Kalpana Gupta
+  - Westyn Branch-Elliman
+  publisher: Infection control and hospital epidemiology
+  date: '2019-06-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31159895
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/mBio.00047-19
+  title: "Reply to Moossavi and Azad, \u201CQuantifying and Interpreting the Association\
+    \ between Early-Life Gut Microbiota Composition and Childhood Obesity\u201D"
+  authors:
+  - Maggie A. Stanislawski
+  - Dana Dabelea
+  - Brandie D. Wagner
+  - Nina Iszatt
+  - Cecilie Dahl
+  - Marci K. Sontag
+  - Rob Knight
+  - Catherine A. Lozupone
+  - "Merete Eggesb\xF8"
+  publisher: mBio
+  date: '2019-02-26'
+  link: https://doi.org/g9q9dq
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30358654
+  title: 'Contemporary use of intra-aortic balloon pumps during percutaneous coronary
+    intervention: insights from the Veterans Affairs Clinical Assessment, Reporting,
+    and Tracking program.'
+  authors:
+  - Omar Jawaid
+  - Maggie Stanislawski
+  - Rory Bricker
+  - Mary E Plomondon
+  - Gary K Grunwald
+  - Javier A Valle
+  - Ehrin J Armstrong
+  - Stephen W Waldo
+  publisher: Coronary artery disease
+  date: '2019-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30358654
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30510919
+  title: 'Military-Related Exposures, Social Determinants of Health, and Dysbiosis:
+    The United States-Veteran Microbiome Project (US-VMP).'
+  authors:
+  - Lisa A Brenner
+  - Andrew J Hoisington
+  - Kelly A Stearns-Yoder
+  - Christopher E Stamper
+  - Jared D Heinze
+  - Teodor T Postolache
+  - Daniel A Hadidi
+  - Claire A Hoffmire
+  - Maggie A Stanislawski
+  - Christopher A Lowry
+  publisher: Frontiers in cellular and infection microbiology
+  date: '2018-11-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30510919
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30396358
+  title: Gestational weight gain charts for different body mass index groups for women
+    in Europe, North America, and Oceania.
+  authors:
+  - Susana Santos
+  - Iris Eekhout
+  - Ellis Voerman
+  - Romy Gaillard
+  - Henrique Barros
+  - Marie-Aline Charles
+  - Leda Chatzi
+  - "C\xE9cile Chevrier"
+  - George P Chrousos
+  - Eva Corpeleijn
+  - Nathalie Costet
+  - Sarah Crozier
+  - Myriam Doyon
+  - "Merete Eggesb\xF8"
+  - Maria Pia Fantini
+  - Sara Farchi
+  - Francesco Forastiere
+  - Luigi Gagliardi
+  - Vagelis Georgiu
+  - Keith M Godfrey
+  - Davide Gori
+  - Veit Grote
+  - Wojciech Hanke
+  - Irva Hertz-Picciotto
+  - Barbara Heude
+  - Marie-France Hivert
+  - Daniel Hryhorczuk
+  - Rae-Chi Huang
+  - Hazel Inskip
+  - Todd A Jusko
+  - Anne M Karvonen
+  - Berthold Koletzko
+  - "Leanne K K\xFCpers"
+  - "Hanna Lagstr\xF6m"
+  - Debbie A Lawlor
+  - Irina Lehmann
+  - Maria-Jose Lopez-Espinosa
+  - Per Magnus
+  - Renata Majewska
+  - "Johanna M\xE4kel\xE4"
+  - Yannis Manios
+  - Sheila W McDonald
+  - Monique Mommers
+  - Camilla S Morgen
+  - George Moschonis
+  - "\u013Dubica Mur\xEDnov\xE1"
+  - John Newnham
+  - Ellen A Nohr
+  - Anne-Marie Nybo Andersen
+  - Emily Oken
+  - "Adri\xEBtte J J M Oostvogels"
+  - Agnieszka Pac
+  - Eleni Papadopoulou
+  - Juha Pekkanen
+  - Costanza Pizzi
+  - Kinga Polanska
+  - Daniela Porta
+  - Lorenzo Richiardi
+  - Sheryl L Rifas-Shiman
+  - Nel Roeleveld
+  - Loreto Santa-Marina
+  - Ana C Santos
+  - Henriette A Smit
+  - "Thorkild I A S\xF8rensen"
+  - Marie Standl
+  - Maggie Stanislawski
+  - Camilla Stoltenberg
+  - Elisabeth Thiering
+  - Carel Thijs
+  - Maties Torrent
+  - Suzanne C Tough
+  - Tomas Trnovec
+  - Marleen M H J van Gelder
+  - Lenie van Rossem
+  - Andrea von Berg
+  - Martine Vrijheid
+  - Tanja G M Vrijkotte
+  - Oleksandr Zvinchuk
+  - Stef van Buuren
+  - Vincent W V Jaddoe
+  publisher: BMC medicine
+  date: '2018-11-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30396358
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30352933
+  title: Gut Microbiota in the First 2 Years of Life and the Association with Body
+    Mass Index at Age 12 in a Norwegian Birth Cohort.
+  authors:
+  - Maggie A Stanislawski
+  - Dana Dabelea
+  - Brandie D Wagner
+  - Nina Iszatt
+  - Cecilie Dahl
+  - Marci K Sontag
+  - Rob Knight
+  - Catherine A Lozupone
+  - "Merete Eggesb\xF8"
+  publisher: mBio
+  date: '2018-10-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30352933
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ccd.27213
+  title: 'Coronary atherectomy is associated with improved procedural and clinical
+    outcomes among patients with calcified coronary lesions: Insights from the VA
+    CART program'
+  authors:
+  - Ehrin J. Armstrong
+  - Maggie A. Stanislawski
+  - Damianos G. Kokkinidis
+  - Mary E. Plomondon
+  - "Anna E. Bar\xF3n"
+  - Jay Giri
+  - Kendrick A. Shunk
+  - Subhash Banerjee
+  - Thomas M. Maddox
+  - Stephen W. Waldo
+  publisher: Catheterization and Cardiovascular Interventions
+  date: '2017-08-02'
+  link: https://doi.org/g9q9dr
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41390-018-0065-1
+  title: "Maggie Stanislawski\u2014August ECI biocommentary"
+  authors:
+  - Maggie Stanislawski
+  publisher: Pediatric Research
+  date: '2018-06-12'
+  link: https://doi.org/g9q9ds
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ice.2018.170
+  title: 'Prolonged antimicrobial prophylaxis following cardiac device procedures
+    increases preventable harm: insights from the VA CART program'
+  authors:
+  - Archana Asundi
+  - Maggie Stanislawski
+  - Payal Mehta
+  - "Anna E. Bar\xF3n"
+  - Howard Gold
+  - Hillary Mull
+  - P. Michael Ho
+  - Kalpana Gupta
+  - Westyn Branch-Elliman
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2018-09-01'
+  link: https://doi.org/gd95mq
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/clc.22961
+  title: 'The implications of cocaine use and associated behaviors on adverse cardiovascular
+    outcomes among veterans: Insights from the VA Clinical Assessment, Reporting,
+    and Tracking (CART) Program'
+  authors:
+  - Ateka Gunja
+  - Maggie A. Stanislawski
+  - "Anna E. Bar\xF3n"
+  - Thomas M. Maddox
+  - Steven M. Bradley
+  - Mladen I. Vidovich
+  publisher: Clinical Cardiology
+  date: '2018-06-01'
+  link: https://doi.org/g9q9dt
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/JAHA.116.004819
+  title: "Association Between Chronic Kidney Disease and Rates of Transfusion and\
+    \ Progression to End\u2010Stage Renal Disease in Patients Undergoing Transradial\
+    \ Versus Transfemoral Cardiac Catheterization\u2014An Analysis From the Veterans\
+    \ Affairs Clinical Assessment Reporting and Tracking (CART) Program"
+  authors:
+  - Amit N. Vora
+  - Maggie Stanislawski
+  - Gary K. Grunwald
+  - Mary E. Plomondon
+  - John S. Rumsfeld
+  - Thomas M. Maddox
+  - Mladen I. Vidovich
+  - Walter Woody
+  - Brahmajee K. Nallamothu
+  - Hitinder S. Gurm
+  - Sunil V. Rao
+  publisher: Journal of the American Heart Association
+  date: '2017-04-05'
+  link: https://doi.org/gfhx2s
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcin.2017.02.044
+  title: "Contemporary Incidence, Management, and\_Long-Term Outcomes of Percutaneous\_\
+    Coronary Interventions for Chronic\_Coronary Artery Total Occlusions"
+  authors:
+  - Thomas T. Tsai
+  - Maggie A. Stanislawski
+  - Kendrick A. Shunk
+  - Ehrin J. Armstrong
+  - Gary K. Grunwald
+  - Alan H. Schob
+  - Javier A. Valle
+  - Carlos E. Alfonso
+  - Brahmajee K. Nallamothu
+  - P. Michael Ho
+  - John S. Rumsfeld
+  - Emmanouil S. Brilakis
+  publisher: 'JACC: Cardiovascular Interventions'
+  date: '2017-05-01'
+  link: https://doi.org/g9q9dv
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0184336
+  title: Gut microbiome of mothers delivering prematurely shows reduced diversity
+    and lower relative abundance of Bifidobacterium and Streptococcus
+  authors:
+  - Cecilie Dahl
+  - Maggie Stanislawski
+  - Nina Iszatt
+  - Siddhartha Mandal
+  - Catherine Lozupone
+  - Jose C. Clemente
+  - Rob Knight
+  - Hein Stigum
+  - "Merete Eggesb\xF8"
+  publisher: PLOS ONE
+  date: '2017-10-25'
+  link: https://doi.org/gcf7cg
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40168-017-0332-0
+  title: Pre-pregnancy weight, gestational weight gain, and the gut microbiota of
+    mothers and their infants
+  authors:
+  - Maggie A. Stanislawski
+  - Dana Dabelea
+  - Brandie D. Wagner
+  - Marci K. Sontag
+  - Catherine A. Lozupone
+  - "Merete Eggesb\xF8"
+  publisher: Microbiome
+  date: '2017-09-04'
+  link: https://doi.org/gbxcbg
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/jwh.2016.6057
+  title: Sex Differences in 1-Year Outcomes After Percutaneous Coronary Intervention
+    in the Veterans Health Administration
+  authors:
+  - Melissa M. Farmer
+  - Maggie A. Stanislawski
+  - Mary E. Plomondon
+  - Bevanne Bean-Mayberry
+  - Nataria T. Joseph
+  - Lauren E. Thompson
+  - Jessica L. Zuchowski
+  - Stacie L. Daugherty
+  - Elizabeth M. Yano
+  - P. Michael Ho
+  publisher: Journal of Women's Health
+  date: '2017-10-01'
+  link: https://doi.org/gcfv7f
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/PSY.0000000000000512
+  title: 'The Microbiome in Posttraumatic Stress Disorder and Trauma-Exposed Controls:
+    An Exploratory Study'
+  authors:
+  - Sian M.J. Hemmings
+  - "Stefanie Malan-M\xFCller"
+  - Leigh L. van den Heuvel
+  - Brittany A. Demmitt
+  - Maggie A. Stanislawski
+  - David G. Smith
+  - Adam D. Bohr
+  - Christopher E. Stamper
+  - Embriette R. Hyde
+  - James T. Morton
+  - Clarisse A. Marotz
+  - Philip H. Siebler
+  - Maarten Braspenning
+  - Wim Van Criekinge
+  - Andrew J. Hoisington
+  - Lisa A. Brenner
+  - Teodor T. Postolache
+  - Matthew B. McQueen
+  - Kenneth S. Krauter
+  - Rob Knight
+  - Soraya Seedat
+  - Christopher A. Lowry
+  publisher: Psychosomatic Medicine
+  date: '2017-10-01'
+  link: https://doi.org/gcf55k
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/JAHA.117.006336
+  title: 'Variation in Management of Patients With Obstructive Coronary Artery Disease:
+    Insights From the Veterans Affairs Clinical Assessment and Reporting Tool (VA
+    CART) Program'
+  authors:
+  - Amneet Sandhu
+  - Maggie A. Stanislawski
+  - Gary K. Grunwald
+  - Kathryn Guinn
+  - Javier Valle
+  - Daniel Matlock
+  - P. Michael Ho
+  - Thomas M. Maddox
+  - Steven M. Bradley
+  publisher: Journal of the American Heart Association
+  date: '2017-09-22'
+  link: https://doi.org/g77m3d
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRCULATIONAHA.115.020207
+  title: 'Association of Borderline Pulmonary Hypertension With Mortality and Hospitalization
+    in a Large Patient Cohort: Insights From the Veterans Affairs Clinical Assessment,
+    Reporting, and Tracking Program'
+  authors:
+  - Bradley A. Maron
+  - Edward Hess
+  - Thomas M. Maddox
+  - Alexander R. Opotowsky
+  - Ryan J. Tedford
+  - Tim Lahm
+  - Karen E. Joynt
+  - Daniel J. Kass
+  - Thomas Stephens
+  - Maggie A. Stanislawski
+  - Erik R. Swenson
+  - Ronald H. Goldstein
+  - Jane A. Leopold
+  - Roham T. Zamanian
+  - Jean M. Elwing
+  - Mary E. Plomondon
+  - Gary K. Grunwald
+  - "Anna E. Bar\xF3n"
+  - John S. Rumsfeld
+  - Gaurav Choudhary
+  publisher: Circulation
+  date: '2016-03-29'
+  link: https://doi.org/f8g572
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/ice.2016.116
+  title: 'Cardiac Electrophysiology Laboratories: A Potential Target for Antimicrobial
+    Stewardship and Quality Improvement?'
+  authors:
+  - Westyn Branch-Elliman
+  - Maggie Stanislawski
+  - Judith Strymish
+  - "Anna E. Bar\xF3n"
+  - Kalpana Gupta
+  - Paul D. Varosy
+  - Howard S. Gold
+  - P. Michael Ho
+  publisher: Infection Control &amp; Hospital Epidemiology
+  date: '2016-06-20'
+  link: https://doi.org/f834x4
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRCOUTCOMES.115.002043
+  title: Use of Contraindicated Antiplatelet Medications in the Setting of Percutaneous
+    Coronary Intervention
+  authors:
+  - Geoffrey D. Barnes
+  - Maggie A. Stanislawski
+  - Wenhui Liu
+  - "Anna E. Bar\xF3n"
+  - Ehrin J. Armstrong
+  - P. Michael Ho
+  - Andrew Klein
+  - Thomas M. Maddox
+  - Brahmajee K. Nallamothu
+  - John S. Rumsfeld
+  - Thomas T. Tsai
+  - Steven M. Bradley
+  publisher: 'Circulation: Cardiovascular Quality and Outcomes'
+  date: '2016-07-01'
+  link: https://doi.org/f8xcbz
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ahj.2014.05.015
+  title: 'Invasive coronary procedure use and outcomes among veterans with posttraumatic
+    stress disorder: Insights from the Veterans Affairs Clinical Assessment, Reporting,
+    and Tracking Program'
+  authors:
+  - Steven M. Bradley
+  - Maggie A. Stanislawski
+  - David B. Bekelman
+  - Lindsey L. Monteith
+  - Beth E. Cohen
+  - John H. Schilling
+  - Stephen C. Hunt
+  - Debra Milek
+  - Thomas M. Maddox
+  - P. Michael Ho
+  - Supriya Shore
+  - Paul D. Varosy
+  - Monica M. Matthieu
+  - John S. Rumsfeld
+  publisher: American Heart Journal
+  date: '2014-09-01'
+  link: https://doi.org/f6f5v3
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/jama.2014.14681
+  title: Nonobstructive Coronary Artery Disease and Risk of Myocardial Infarction
+  authors:
+  - Thomas M. Maddox
+  - Maggie A. Stanislawski
+  - Gary K. Grunwald
+  - Steven M. Bradley
+  - P. Michael Ho
+  - Thomas T. Tsai
+  - Manesh R. Patel
+  - Amneet Sandhu
+  - Javier Valle
+  - David J. Magid
+  - Benjamin Leon
+  - Deepak L. Bhatt
+  - Stephan D. Fihn
+  - John S. Rumsfeld
+  publisher: JAMA
+  date: '2014-11-05'
+  link: https://doi.org/cjhg
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jacc.2013.09.055
+  title: Normal Coronary Rates for Elective Angiography in the Veterans Affairs Healthcare
+    System
+  authors:
+  - Steven M. Bradley
+  - Thomas M. Maddox
+  - Maggie A. Stanislawski
+  - "Colin I. O\u2019Donnell"
+  - Gary K. Grunwald
+  - Thomas T. Tsai
+  - P. Michael Ho
+  - Eric D. Peterson
+  - John S. Rumsfeld
+  publisher: Journal of the American College of Cardiology
+  date: '2014-02-01'
+  link: https://doi.org/f2qrkm
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRCULATIONAHA.114.009713
+  title: Patient Access and 1-Year Outcomes of Percutaneous Coronary Intervention
+    Facilities With and Without On-Site Cardiothoracic Surgery
+  authors:
+  - Thomas M. Maddox
+  - Maggie A. Stanislawski
+  - "Colin O\u2019Donnell"
+  - Mary E. Plomondon
+  - Steven M. Bradley
+  - P. Michael Ho
+  - Thomas T. Tsai
+  - Adhir R. Shroff
+  - Bernadette Speiser
+  - Robert J. Jesse
+  - John S. Rumsfeld
+  publisher: Circulation
+  date: '2014-10-14'
+  link: https://doi.org/f6m62p
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jacc.2014.06.1207
+  title: Safety and Effectiveness of Drug-Eluting Versus Bare-Metal Stents in Saphenous
+    Vein Bypass Graft Percutaneous Coronary Interventions
+  authors:
+  - Vikas Aggarwal
+  - Maggie A. Stanislawski
+  - Thomas M. Maddox
+  - Brahmajee K. Nallamothu
+  - Gary Grunwald
+  - Jill C. Adams
+  - P. Michael Ho
+  - Sunil V. Rao
+  - Ivan P. Casserly
+  - John S. Rumsfeld
+  - Emmanouil S. Brilakis
+  - Thomas T. Tsai
+  publisher: Journal of the American College of Cardiology
+  date: '2014-10-01'
+  link: https://doi.org/f2vs47
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/CIRCINTERVENTIONS.113.000110
+  title: Adoption of Transradial Percutaneous Coronary Intervention and Outcomes According
+    to Center Radial Volume in the Veterans Affairs Healthcare System
+  authors:
+  - Antonio Gutierrez
+  - Thomas T. Tsai
+  - Maggie A. Stanislawski
+  - Mladen Vidovich
+  - Christopher L. Bryson
+  - Deepak L. Bhatt
+  - Gary K. Grunwald
+  - John Rumsfeld
+  - Sunil V. Rao
+  publisher: 'Circulation: Cardiovascular Interventions'
+  date: '2013-08-01'
+  link: https://doi.org/f47rp6
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijpddr.2025.100588
+  title: A graphical user interface for wrmXpress 2.0 streamlines helminth phenotypic
+    screening
+  authors:
+  - Zachary Caterer
+  - Rachel V. Horejsi
+  - Carly Weber
+  - Blake Mathisen
+  - Chase N. Nelson
+  - Maggie Bagatta
+  - Ireland Coughlin
+  - Megan Wettstein
+  - Ankit Kulshrestha
+  - Hui Siang Benjamin Lee
+  - Leonardo R. Nunn
+  - Mostafa Zamanian
+  - Nicolas J. Wheeler
+  publisher: 'International Journal for Parasitology: Drugs and Drug Resistance'
+  date: '2025-04-01'
+  link: https://doi.org/g9q9d2
+  orcid: 0000-0001-9019-0730
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/bioengineering12040366
+  title: Exploring Feature Selection with Deep Learning for Kidney Tissue Microarray
+    Classification Using Infrared Spectral Imaging
+  authors:
+  - Zachary Caterer
+  - Jordan Langlois
+  - Connor McKeown
+  - Mikayla Hady
+  - Samuel Stumo
+  - Suman Setty
+  - Michael Walsh
+  - Rahul Gomes
+  publisher: Bioengineering
+  date: '2025-03-31'
+  link: https://doi.org/g9q9d3
+  orcid: 0000-0001-9019-0730
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.24.634132
+  title: 'CellPhenoX: An eXplainable Cell-specific machine learning method to predict
+    clinical Phenotypes using single-cell multi-omics'
+  authors:
+  - Jade Young
+  - Jun Inamo
+  - Zachary Caterer
+  - Revanth Krishna
+  - Fan Zhang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-27'
+  link: https://doi.org/g9q9d4
+  orcid: 0000-0001-9019-0730
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1681/ASN.0000000688
+  title: Alterations in DNA Methylation, Proteomic, and Metabolomic Profiles in African
+    Ancestry Populations with APOL1 Risk Alleles
+  authors:
+  - Xinruo Zhang
+  - Ashley W. Scadden
+  - Amarnath Marthi
+  - Victoria L. Buchanan
+  - Yishu Qu
+  - Kendra R. Ferrier
+  - Brian D. Chen
+  - Mariaelisa Graff
+  - Julian Avila
+  - Eric Boerwinkle
+  - Steven Buyske
+  - Clary B. Clish
+  - Dan Cruz
+  - Myriam Fornage
+  - Robert E. Gerzsten
+  - Christopher R. Gignoux
+  - LaShaunta Glover
+  - Lifang Hou
+  - Anne E. Justice
+  - Charles Kooperberg
+  - Holly Kramer
+  - Leslie Lange
+  - Ruth J.F. Loos
+  - Tara Matise
+  - Josyf C. Mychaleckyj
+  - Opeyemi A. Olabisi
+  - Ulrike Peters
+  - Laura M. Raffield
+  - Alex P. Reiner
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Kent D. Taylor
+  - Bing Yu
+  - Yinan Zheng
+  - Kari E. North
+  - Amy K. Mottl
+  - Heather M. Highland
+  - Maggie A. Stanislawski
+  publisher: Journal of the American Society of Nephrology
+  date: '2025-04-07'
+  link: https://doi.org/g9q9d5
+  orcid: 0000-0001-7603-1442
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.17.633486
+  title: Histone deacetylase-1 is required for epigenome stability in<i>Neurospora
+    crassa</i>
+  authors:
+  - Felicia Ebot-Ojong
+  - Aileen R. Ferraro
+  - Farh Kaddar
+  - Clayton Hull-Crew
+  - Ashley W. Scadden
+  - Andrew D. Klocko
+  - Zachary A. Lewis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-20'
+  link: https://doi.org/g9q9d6
+  orcid: 0000-0001-7603-1442
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2311249120
+  title: "Histone deacetylation and cytosine methylation compartmentalize heterochromatic\
+    \ regions in the genome organization of\n            <i>Neurospora crassa</i>"
+  authors:
+  - Ashley W. Scadden
+  - Alayne S. Graybill
+  - Clayton Hull-Crew
+  - Tiffany J. Lundberg
+  - Nickolas M. Lande
+  - Andrew D. Klocko
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-11-14'
+  link: https://doi.org/g9q9d7
+  orcid: 0000-0001-7603-1442
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.07.03.547530
+  title: Histone deacetylation and cytosine methylation compartmentalize heterochromatic
+    regions in the genome organization of<i>Neurospora crassa</i>
+  authors:
+  - Ashley W. Scadden
+  - Alayne S. Graybill
+  - Clayton Hull-Crew
+  - Tiffany J. Lundberg
+  - Nickolas M. Lande
+  - Andrew D. Klocko
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-03'
+  link: https://doi.org/g9q9d8
+  orcid: 0000-0001-7603-1442
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/g3journal/jkac053
+  title: The genome organization of <i>Neurospora crassa</i> at high resolution uncovers
+    principles of fungal chromosome topology
+  authors:
+  - Sara Rodriguez
+  - Ashley Ward
+  - Andrew T Reckard
+  - Yulia Shtanko
+  - Clayton Hull-Crew
+  - Andrew D Klocko
+  publisher: G3
+  date: '2022-03-04'
+  link: https://doi.org/g6p2m2
+  orcid: 0000-0001-7603-1442
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jpeds.2024.114433
+  title: High-Risk Infant Developmental Outcome Is Associated with Medical Complexity
+    and Neighborhood Opportunity
+  authors:
+  - Emily N. Yeo
+  - Nathan D. Young
+  - Joseph C. Cleveland
+  - Tamara D. Simon
+  - Douglas L. Vanderbilt
+  - Juan Espinoza
+  - Christine B. Mirzaian
+  - Tanya L. Alderete
+  publisher: The Journal of Pediatrics
+  date: '2025-04-01'
+  link: https://doi.org/g9q9fb
+  orcid: 0000-0003-2113-0077
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chom.2024.09.009
+  title: Hospitalization throws the preterm gut microbiome off-key
+  authors:
+  - Jing Qian
+  - Emily N. Yeo
+  - Matthew R. Olm
+  publisher: Cell Host &amp; Microbe
+  date: '2024-10-01'
+  link: https://doi.org/g9q9fc
+  orcid: 0000-0003-2113-0077
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tjnut.2024.07.014
+  title: Aging Modulates the Effect of Dietary Glycemic Index on Gut Microbiota Composition
+    in Mice
+  authors:
+  - Ying Zhu
+  - Emily N Yeo
+  - Kelsey M Smith
+  - Andrew S Greenberg
+  - Sheldon Rowan
+  publisher: The Journal of Nutrition
+  date: '2024-09-01'
+  link: https://doi.org/g8wc7m
+  orcid: 0000-0003-2113-0077
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s44324-023-00001-2
+  title: 'The potential role of early life feeding patterns in shaping the infant
+    fecal metabolome: implications for neurodevelopmental outcomes'
+  authors:
+  - Bridget Chalifour
+  - Elizabeth A. Holzhausen
+  - Joseph J. Lim
+  - Emily N. Yeo
+  - Natalie Shen
+  - Dean P. Jones
+  - Bradley S. Peterson
+  - Michael I. Goran
+  - Donghai Liang
+  - Tanya L. Alderete
+  publisher: npj Metabolic Health and Disease
+  date: '2023-12-13'
+  link: https://doi.org/gs8wz2
+  orcid: 0000-0003-2113-0077
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.18.25329573
+  title: Ancestry Calibration of Polygenic Risk Scores Improves Risk Stratification
+    and Effect Estimation in African American Adults
+  authors:
+  - Luciana B. Vargas
+  - Mariah C. Meyer
+  - Iain R. Konigsberg
+  - Aastha Kakar
+  - Patrick M. Carry
+  - Yun Li
+  - Alana C. Jones
+  - Hemant K. Tiwari
+  - Vinodh Srinivasasainagendra
+  - Nicole D. Armstrong
+  - Eimear E. Kenny
+  - Bogdan Pasaniuc
+  - Marguerite R. Irvin
+  - Michael H. Cho
+  - Maggie A. Stanislawski
+  - Sridharan Raghavan
+  - Jonathan A. Shortt
+  - Leslie A. Lange
+  - Ethan M. Lange
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-18'
+  link: https://doi.org/g9q9fd
+  orcid: 0009-0001-5192-1286
+  plugin: orcid.py
+  file: orcid.yaml

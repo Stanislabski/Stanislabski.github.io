@@ -5,16 +5,19 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Our Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## We evaluate the role of the microbiome, and other omic pathways, in the response to clinical interventions 
 
-{% include section.html %}
+We partner with clinical dietary and exercise intervention studies in order to understand how these interventions impact the microbiome and related molecular profiles, such as metabolomics and DNA methylation. We use advanced statistical methods and quantitative epidemiology to investigate the role of molecular profiles in the response to the interventions with the hope of understanding how to personalize approaches to diet and exercise for optimal cardiometabolic health. 
 
-## Highlighted
+## We aim to answer questions such as: 
+1. How do different dietary approaches, such as intermittent fasting versus a standard calorie reduction diet, affect the microbiome?
+2. Do dietary changes affect different people differently, based on their baseline microbiota profile?
+3. Do changes in the microbiome mediate weight loss or cardiometabolic improvements during a dietary intervention? 
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+## Investigating omic pathways in diverse populations
+We aim to understand how the relationship between molecular profiles, such as genetics, the microbiome, DNA methylation, and metabolomic profiles, vary across diverse populations, and to leverage this understanding to investigate their role in cardiometabolic and inflammatory diseases. We do this using data from large epidemiological cohort studies and biobanks, evaluating how factors such as race/ethnicity, diet, age, and socioeconomic status impact the association of genetic and other omic profiles with cardiometabolic conditions.
 
 {% include section.html %}
 

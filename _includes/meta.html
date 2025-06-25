@@ -85,10 +85,10 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "{{ title }}" },
       "datePublished": "{{ published }}",
-      "dateModified": "{{ updated }}",
+      "dateModified": "{{ updated }}"
     {% else %}
-      "@type": "WebSite",
-    {% endif %}
+      "@type": "WebSite"
+    {% endif %},
     "name": "{{ title }}",
     "description": "{{ description }}",
     "headline": "{{ title }}",
@@ -99,5 +99,6 @@
     "url": "{{ url }}"
   }
 </script>
+
 
 <link rel="alternate" type="application/rss+xml" href="{{ feed }}">
