@@ -2,17 +2,17 @@
 
 # team member roles
 
-principal-investigator:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+# principal-investigator:
+#   icon: fa-solid fa-microscope
+#   description: Principal Investigator
 
-postdoc:
-  icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+# postdoc:
+#   icon: fa-solid fa-glasses
+#   description: Postdoctoral Researcher
 
-phd:
-  icon: fa-solid fa-graduation-cap
-  description: PhD Student
+# phd:
+#   icon: fa-solid fa-graduation-cap
+#   description: PhD Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
@@ -22,13 +22,13 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
-staff: 
-  icon: fa fa-flask
-  description: Staff
+# staff: 
+#   icon: fa fa-flask
+#   description: Staff
 
-research-assistant:
-  icon: fa-solid fa-vials
-  description: Research Assistant
+# research-assistant:
+#   icon: fa-solid fa-vials
+#   description: Research Assistant
 
 mascot:
   icon: fa-solid fa-dog

@@ -4,20 +4,6 @@
 
 # Personalizing wellness through the science of the microbiome
 
-## Documentation
-
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
-
 ## Highlights
 
 {% capture text %}
@@ -37,7 +23,7 @@ We investigate how clinical dietary and exercise interventions influence the mic
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/microbes.jpg"
   link="research"
   title="What We Do"
   text=text
@@ -60,7 +46,7 @@ We aim to personalize diet and exercise strategies to improve cardiometabolic he
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.png"
   link="projects"
   title="Our Goal"
   flip=true
@@ -85,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab.jpg"
   link="team"
   title="Our Team"
   text=text

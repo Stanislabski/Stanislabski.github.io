@@ -1,47 +1,46 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Multi-omics and weight loss interventions
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/multi-omics-weightloss.png
+  description: Obesity is a global epidemic that substantially increases risk for numerous chronic diseases. Unfortunately, weight loss (and weight loss maintenance) is very challenging for many people. Some of the reasons for this relate to motivation and the time and cost of maintaining a healthy lifestyle. However, some of the reasons are also physiological in nature and rooted in individual factors, like genetics or the composition of the gut microbiome. We apply advanced computational methods to molecular data from participants of weight loss interventions to understand the effects of these complex physiological factors.
+  # DOI:
+  # - https://doi.org/10.1002/oby.23127
+  # - https://doi.org/10.3390/nu13093248
+  # - https://doi.org/10.3390/nu15163588
   tags:
-    - resource
+    - research
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Omic risk scores
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/omic-risk-scores.jpg
+  description: Polygenic risk scores have become a clinically valuable tool to summarize genetic risk for a disease across the genome and identify individuals who are at high or low risk for disease. These are particularly relevant for polygenic diseases, such as obesity or diabetes, where risk variants across numerous genes contribute cumulatively towards disease risk (versus monogenic diseases like cystic fibrosis with risk stemming from one specific gene).  Our team applies similar methods to omics data (e.g., data from the microbiome, proteomics, metabolomics, transcriptomics) in relation to various health conditions or disease states, such as inflammatory bowel disease.
+  # DOI:
+  # - https://doi.org/10.1128/msystems.00677-23
   tags:
-    - resource
+    - research
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Understanding mechanisms of genetic risk
+  group: featured
+  image: images/mech-genetic-risk.png
+  description: Genetics shape our physiology in complex ways. We use multi-omics data (e.g., DNA methylation, proteomics, metabolomics) to try to understand mechanisms linking genetic risk factors to disease. For example, the variants in the APOL1 gene significantly increase risk for kidney disease, but the pathway between the genetics and disease is unknown. Thus, we have examined associations between APOL1 genetic risk and DNA methylation, metabolomics, and proteomics to try to provide greater insight into the underlying mechanisms.
+  # DOI:
+  # - DOI: 10.1681/ASN.0000000688
   tags:
-    - resource
-    - publication
+    - research
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Molecular risk factors across diverse human populations
+  group: featured
+  image: images/risk-factors-in-diverse-pops.png
+  description: Human populations are complex with substantial diversity across the globe. The effects of molecular risk factors vary across spectrums of ages, dietary and lifestyle factors, and genetic background. We leverage advanced statistical methods to understand and quantify these differences, e.g., examining interactions between genetic and non-genetic risk factors, and how microbiome profiles and microbiome-disease relationships differ with age, health status, and race/ethnicity.
+  # DOI:
+  # - DOI:10.1159/000546100
+  # - https://doi.org/10.2337/dc21-0464
+  # PMID:
+  # - 32143931
+  # - 34205853
+  # - 28870230
+  # - 30352933
+  # - 29069100
+  # - 34988495
+  # - 31285833
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - research

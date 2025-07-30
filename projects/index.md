@@ -7,10 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We develop tools and resources that support our mission to understand how the microbiome and other omic pathways—such as genetics, metabolomics, and epigenetics—influence the response to clinical interventions like diet and exercise. Our projects often emerge from collaborations with clinical studies and large cohort datasets, allowing us to explore diverse populations and generate insights into cardiometabolic health.
 
-{% include tags.html tags="publication, resource, website" %}
+Our lab is especially focused on building reproducible, open-source software and statistical workflows that enable the analysis of complex biological data and help advance precision nutrition and personalized health strategies. Below are some of our featured tools and datasets.
+
+
+{% include tags.html tags="research" %}
 
 {% include search-info.html %}
 
@@ -22,6 +24,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## More
+<!-- ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %} -->

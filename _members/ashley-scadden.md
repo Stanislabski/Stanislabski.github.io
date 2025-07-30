@@ -19,4 +19,4 @@ links:
   emial: ashley.scadden@cuanschutz.edu
 ---
 
-Ashley has been a part of the CU community since 2014, earning her bachelor's and master's degrees in biochemistry at the University of Colorado at Colorado Springs. Her thesis focused on exploring how epigenetic marks affect the genomic organization of Neurospora crassa. She joined the Stanislawski Lab in the summer of 2022.
+Ashley is a professional research assistant in the Stanislawski Lab in the Department of Biomedical Informatics. She joined the lab in the summer of 2022 after completing her M.Sc. in Biochemistry at the University of Colorado Colorado Springs. Outside of the lab, Ashley enjoys hiking, fishing, and baking.

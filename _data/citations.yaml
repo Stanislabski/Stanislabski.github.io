@@ -13,8 +13,9 @@
   date: '2024-03-23'
   link: https://doi.org/g9q9dk
   orcid: 0000-0001-7603-1442
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/08/15/2024.03.20.585968/F1.medium.gif
 - id: doi:10.1038/s43856-023-00359-w
   title: 'Treatment effect heterogeneity following type 2 diabetes treatment with
     GLP1-receptor agonists and SGLT2-inhibitors: a systematic review'
@@ -1187,8 +1188,9 @@
   date: '2025-04-01'
   link: https://doi.org/g9q9d2
   orcid: 0000-0001-9019-0730
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211320725000119-ga1.jpg
 - id: doi:10.3390/bioengineering12040366
   title: Exploring Feature Selection with Deep Learning for Kidney Tissue Microarray
     Classification Using Infrared Spectral Imaging
@@ -1222,6 +1224,46 @@
   orcid: 0000-0001-9019-0730
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1159/000546100
+  title: Type 2 diabetes polygenic risk score interactions with lifestyle risk factors
+    in Black Americans
+  authors:
+  - Ashley W. Scadden
+  - Aastha Kakar
+  - Elizabeth M. Litkowski
+  - Mariah C. Meyer
+  - Nicole D. Armstrong
+  - Steven Buyske
+  - Yanwei Cai
+  - Iona Cheng
+  - Burcu F. Darst
+  - Myriam Fornage
+  - Mariaelisa Graff
+  - Boya Guo
+  - Christopher A. Haiman
+  - Heather M. Highland
+  - Charles Kooperberg
+  - "Lo\xEFc Le Marchand"
+  - Kari North
+  - Ulrike Peters
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Vinodh Srinivasasainagendra
+  - Hemant K. Tiwari
+  - Stephanie Waldrop
+  - Kristin Young
+  - Sridharan Raghavan
+  - Ethan M. Lange
+  - Leslie A. Lange
+  - Marguerite R. Irvin
+  - Maggie A. Stanislawski
+  publisher: Lifestyle Genomics
+  date: '2025-05-30'
+  link: https://doi.org/g9sgz4
+  orcid: 0009-0001-5192-1286
+  plugin: sources.py
+  file: sources.yaml
+  image: https://karger.silverchair-cdn.com/karger/content_public/journal/lfg/18/1/10.1159_000546100/1/m_000546100_ga.jpeg?Expires=1756687471&Signature=l01VEIYJjL18Y8e7pZgpKKqXTPueiN2z5IrF9OSa40eFDME1Du2WpyLXwvMLJ-nqylyQKlntqNM~XDbavPUzvHjZyFVyCSBtlidVLuGxjIx6r2kSbirR4CwBXOZ5g64XuaIVc-0krKyMUEeV1U3mAqxoyuuKG32mqbgWvQhirZgPPwHh913q-2g45hOp7RMEIZ6mbUPid9cGvPZwQ3oKyKPyImBnYCZ4qanEt7RFT5qm7IDFbbZbl2moqzVlAqcmJomJNneC45GnocBjaeL5VP6cmPwjW0BYCLtpxVOkXVVLj9E-NmqBhwg8719wkgkxp0IhZGpQSysCQUoRRmGBJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1681/ASN.0000000688
   title: Alterations in DNA Methylation, Proteomic, and Metabolomic Profiles in African
     Ancestry Populations with APOL1 Risk Alleles
@@ -1429,3 +1471,46 @@
   orcid: 0009-0001-5192-1286
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s00280-023-04503-0
+  title: The CNS-penetrating taxane drug TPI 287 potentiates antiglioma activity of
+    the AURKA inhibitor alisertib in vivo
+  authors:
+  - "M\xFCge Sak"
+  - Brian J. Williams
+  - Cory T. Zumbar
+  - Landon Teer
+  - Mustafa N. G. Al-Kawaaz
+  - Aastha Kakar
+  - Andrew J. Hey
+  - Megan J. Wilson
+  - Leslie M. Schier
+  - Joseph Chen
+  - Norman L. Lehman
+  publisher: Cancer Chemotherapy and Pharmacology
+  date: '2023-01-25'
+  link: https://doi.org/g9sgz5
+  orcid: 0009-0001-5192-1286
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/nu13093248
+  title: The Gut Microbiota during a Behavioral Weight Loss Intervention
+  authors:
+  - Maggie A. Stanislawski
+  - Daniel N. Frank
+  - Sarah J. Borengasser
+  - Danielle M. Ostendorf
+  - Diana Ir
+  - Purevsuren Jambal
+  - Kristen Bing
+  - Liza Wayland
+  - Janet C. Siebert
+  - Daniel H. Bessesen
+  - Paul S. MacLean
+  - Edward L. Melanson
+  - Victoria A. Catenacci
+  publisher: Nutrients
+  date: '2021-09-18'
+  link: https://doi.org/gsgh8k
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/085f/8471894/439e880a085a/nutrients-13-03248-g001.jpg
+  plugin: sources.py
+  file: sources.yaml

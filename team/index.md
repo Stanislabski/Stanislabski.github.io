@@ -13,26 +13,24 @@ redirect_from:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-**THIS PAGE IS COPIED FROM CASEY'S LABWEBSITE, NEED TO CHANGE**
+Our team is united by a shared interest in understanding how molecular and microbial data can be used to improve human health. We bring together diverse backgrounds in epidemiology, statistics, computational biology, and biomedical sciences to ask interdisciplinary questions and develop meaningful solutions.
 
-Our lab is made up of a highly engaged and collaborative team of researchers.
-We recognize that diverse teams do better research.
-We foster an environment where team members are treated equally, and where we respect and admire our differences.
-The team includes postdocs, students at all levels, staff, and our lab mascots.
+We value inclusion, curiosity, and collaboration. We believe that a supportive and respectful environment helps everyone thrive, and we are committed to fostering a lab culture where each person’s contributions and experiences are valued.
+
+Our team includes postdocs, graduate students, undergraduates, staff scientists, and collaborators from a range of institutions and disciplines.
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
 {% include section.html dark=true %}
 
-We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
-We want to push the frontier of data science and train the next generation of data scientists.
+We actively collaborate with researchers across institutions and disciplines. If you're interested in joining our group or working together on shared research interests, we’d love to hear from you.
 
 {%
   include button.html
   icon="fa-solid fa-handshake-angle"
   text="Join the Team"
-  link="join"
+  link="contact"
   style="button"
 %}
 
@@ -40,9 +38,7 @@ We want to push the frontier of data science and train the next generation of da
 
 ## Alumni
 
-Gone but never forgotten.
-These are past lab members who have moved on to the [Childhood Cancer Data Lab](https://www.alexslemonade.org/data-lab), other school programs, new jobs, or elsewhere.
-They have all made lasting contributions to science and to our hearts.
+We are proud of our former lab members and grateful for the lasting impact they’ve made on our work and community. Whether continuing in academia, industry, or new adventures, they remain part of our extended lab family.
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
