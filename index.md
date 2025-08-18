@@ -56,7 +56,7 @@ We aim to personalize diet and exercise strategies to improve cardiometabolic he
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is a multidisciplinary group of scientists, clinicians, and students dedicated to advancing microbiome research. We collaborate across fields to develop innovative approaches for improving health through personalized nutrition and exercise.
 
 {%
   include button.html

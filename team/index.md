@@ -17,14 +17,14 @@ Our team is united by a shared interest in understanding how molecular and micro
 
 We value inclusion, curiosity, and collaboration. We believe that a supportive and respectful environment helps everyone thrive, and we are committed to fostering a lab culture where each person’s contributions and experiences are valued.
 
-Our team includes postdocs, graduate students, undergraduates, staff scientists, and collaborators from a range of institutions and disciplines.
+Our team includes postdocs, graduate students, staff scientists, and collaborators from a range of institutions and disciplines.
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
 {% include section.html dark=true %}
 
-We actively collaborate with researchers across institutions and disciplines. If you're interested in joining our group or working together on shared research interests, we’d love to hear from you.
+We value collaboration and regularly work with scientists from different fields and institutions. If you’re interested in joining our team or exploring potential research partnerships, we’d be excited to connect with you.
 
 {%
   include button.html
@@ -38,7 +38,7 @@ We actively collaborate with researchers across institutions and disciplines. If
 
 ## Alumni
 
-We are proud of our former lab members and grateful for the lasting impact they’ve made on our work and community. Whether continuing in academia, industry, or new adventures, they remain part of our extended lab family.
+Our former lab members have made meaningful contributions that continue to shape our work. Whether they’ve pursued careers in academia, industry, or other paths, they will always remain part of our broader lab community.
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
