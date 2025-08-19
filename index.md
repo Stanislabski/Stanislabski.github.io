@@ -2,9 +2,7 @@
 ---
 {% include section.html %}
 
-# Personalizing wellness through the science of the microbiome
-
-## Highlights
+## Personalizing wellness through the science of the microbiome
 
 {% capture text %}
 
