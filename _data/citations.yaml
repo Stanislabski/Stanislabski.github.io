@@ -1724,7 +1724,7 @@
   orcid: 0000-0001-7603-1442
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.lww.com/_layouts/oaks.journals/ImageView.aspx?k=jasn:2025:08000:00008&i=ga&year=2025&issue=08000&article=00008
+  image: https://images.journals.lww.com/jasn/GAPreview.00001751-202508000-00008.ga.jpeg
 - id: doi:10.1159/000546100
   title: Type 2 diabetes polygenic risk score interactions with lifestyle risk factors
     in Black Americans
