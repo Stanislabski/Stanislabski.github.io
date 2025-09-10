@@ -1,5 +1,296 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-025-62730-w
+  title: Modeling the genomic architecture of adiposity and anthropometrics across
+    the lifespan
+  authors:
+  - Christopher H. Arehart
+  - Meng Lin
+  - Raine A. Gibson
+  - Heather D. Anderson
+  - Christina L. Aquilante
+  - Kelsey Arbogast
+  - Christopher H. Arehart
+  - Ian M. Brooks
+  - Tonya M. Brunetti
+  - Judith Brutus-Lestin
+  - Elizabeth E. Burke
+  - Emily M. Casteel
+  - Joanne B. Cole
+  - Curtis R. Coughlin
+  - Kristy Crooks
+  - Jacob Crawford
+  - Erin Culver
+  - Michelle N. Edelmann
+  - Matthew J. Fisher
+  - Alan W. Franklin
+  - Teresa C. Frye
+  - Hunter George
+  - Christopher R. Gignoux
+  - Elizabeth K. Gilliland
+  - Casey S. Greene
+  - Brooke Hawkes
+  - Emily Hearst
+  - Audrey E. Hendricks
+  - Randi K. Johnson
+  - Colleen G. Julian
+  - Dave Kao
+  - Iain Konigsberg
+  - Lisa Ku
+  - Elizabeth L. Kudron
+  - Rashawnda Lacy
+  - Ethan M. Lange
+  - Yee Ming Lee
+  - Joe A. Lesny
+  - Meng Lin
+  - Jan T. Lowery
+  - Luciana B. Vargas
+  - Betzaida L. Maldonado
+  - Darcy Marceau
+  - James L. Martin
+  - Brianna L. Gates
+  - David Mayer
+  - Nicole L. McDaniel
+  - Andrew Monte
+  - Ethan Moore
+  - Ann Nadrash
+  - Jack Pattee
+  - Nikita Pozdeyev
+  - Alaa Radwan
+  - Nick Rafaels
+  - Sridharan Raghavan
+  - Neda Rasouli
+  - Elise L. Shalowitz
+  - Hoda Sherif
+  - Johnathan A. Shortt
+  - Adrian M. Stewart
+  - Kristen J. Sutton
+  - Carolyn T. Swartz
+  - Anna Tanaka
+  - Matthew R. G. Taylor
+  - Candace Teague
+  - Emily B. Todd
+  - Katy E. Trinkley
+  - Laura K. Wiley
+  - Sridharan Raghavan
+  - Christopher R. Gignoux
+  - Maggie A. Stanislawski
+  - Andrew D. Grotzinger
+  - Luke M. Evans
+  publisher: Nature Communications
+  date: '2025-08-13'
+  link: https://doi.org/g9x39m
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:40451158
+  title: Type 2 Diabetes Polygenic Risk Score Interactions with Lifestyle Risk Factors
+    in Black Americans.
+  authors:
+  - Ashley W Scadden
+  - Aastha Kakar
+  - Elizabeth M Litkowski
+  - Mariah C Meyer
+  - Nicole D Armstrong
+  - Steven Buyske
+  - Yanwei Cai
+  - Iona Cheng
+  - Burcu F Darst
+  - Myriam Fornage
+  - Mariaelisa Graff
+  - Boya Guo
+  - Christopher A Haiman
+  - Heather M Highland
+  - Charles Kooperberg
+  - "Lo\xEFc Le Marchand"
+  - Kari North
+  - Ulrike Peters
+  - Stephen S Rich
+  - Jerome I Rotter
+  - Vinodh Srinivasasainagendra
+  - Hemant K Tiwari
+  - Stephanie Waldrop
+  - Kristin Young
+  - Sridharan Raghavan
+  - Ethan M Lange
+  - Leslie A Lange
+  - Marguerite R Irvin
+  - Maggie A Stanislawski
+  publisher: Lifestyle genomics
+  date: '2025-05-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40451158
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:40193202
+  title: Alterations in DNA Methylation, Proteomic, and Metabolomic Profiles in African
+    Ancestry Populations with APOL1 Risk Alleles.
+  authors:
+  - Xinruo Zhang
+  - Ashley W Scadden
+  - Amarnath Marthi
+  - Victoria L Buchanan
+  - Yishu Qu
+  - Kendra R Ferrier
+  - Brian D Chen
+  - Mariaelisa Graff
+  - Julian Avila
+  - Eric Boerwinkle
+  - Steven Buyske
+  - Clary B Clish
+  - Dan Cruz
+  - Myriam Fornage
+  - Robert E Gerzsten
+  - Christopher R Gignoux
+  - LaShaunta Glover
+  - Lifang Hou
+  - Anne E Justice
+  - Charles Kooperberg
+  - Holly Kramer
+  - Leslie Lange
+  - Ruth J F Loos
+  - Tara Matise
+  - Josyf C Mychaleckyj
+  - Opeyemi A Olabisi
+  - Ulrike Peters
+  - Laura M Raffield
+  - Alex P Reiner
+  - Stephen S Rich
+  - Jerome I Rotter
+  - Kent D Taylor
+  - Bing Yu
+  - Yinan Zheng
+  - Kari E North
+  - Amy K Mottl
+  - Heather M Highland
+  - Maggie A Stanislawski
+  publisher: 'Journal of the American Society of Nephrology : JASN'
+  date: '2025-04-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40193202
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-6674221/v1
+  title: A multi-ethnic polygenic risk score for chronic kidney disease is associated
+    with increased risk of hypertension in African American individuals
+  authors:
+  - Aastha Kakar
+  - Elizabeth M. Litkowski
+  - Ashley W. Scadden
+  - Mohammad Y. Anwar
+  - Iain R. Konigsberg
+  - Maggie A. Stanislawski
+  - Natalie C. DuPre
+  - Riten Mitra
+  - Richard Baumgartner
+  - Laura M. Raffield
+  - Ethan M. Lange
+  - Leslie A. Lange
+  - Kira C. Taylor
+  publisher: Springer Science and Business Media LLC
+  date: '2025-06-24'
+  link: https://doi.org/g9x39n
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.18.25329573
+  title: Ancestry Calibration of Polygenic Risk Scores Improves Risk Stratification
+    and Effect Estimation in African American Adults
+  authors:
+  - Luciana B. Vargas
+  - Mariah C. Meyer
+  - Iain R. Konigsberg
+  - Aastha Kakar
+  - Patrick M. Carry
+  - Yun Li
+  - Alana C. Jones
+  - Hemant K. Tiwari
+  - Vinodh Srinivasasainagendra
+  - Nicole D. Armstrong
+  - Eimear E. Kenny
+  - Bogdan Pasaniuc
+  - Marguerite R. Irvin
+  - Michael H. Cho
+  - Maggie A. Stanislawski
+  - Sridharan Raghavan
+  - Jonathan A. Shortt
+  - Leslie A. Lange
+  - Ethan M. Lange
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-18'
+  link: https://doi.org/g9q9fd
+  orcid: 0009-0001-5192-1286
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.15.25320607
+  title: Epigenome-wide association study meta-analysis of BMI in African American
+    Adults
+  authors:
+  - Kendra Ferrier
+  - Mariaelisa Graff
+  - Iain R. Konigsberg
+  - Maggie Stanislawski
+  - Heather M. Highland
+  - Laura M. Raffield
+  - April P. Carson
+  - Eric Boerwinkle
+  - Jill M. Norris
+  - Chris R. Gignoux
+  - Audrey E. Hendricks
+  - Sridharan Raghavan
+  - Kari E. North
+  - Matthew A. Allison
+  - Mathew J. Budoff
+  - Silva Kasela
+  - "Fran\xE7ois Aguet"
+  - Joshua J. Joseph
+  - Charles Kooperberg
+  - Stephen S. Rich
+  - Jerome I. Rotter
+  - Ethan M. Lange
+  - Leslie A. Lange
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-16'
+  link: https://doi.org/g9x39p
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/oby.24137
+  title: "Machine learning\u2010based clustering identifies obesity subgroups with\
+    \ differential multi\u2010omics profiles and metabolic patterns"
+  authors:
+  - Mohammad Y. Anwar
+  - Heather Highland
+  - Victoria Lynn Buchanan
+  - Mariaelisa Graff
+  - Kristin Young
+  - Kent D. Taylor
+  - Russell P. Tracy
+  - Peter Durda
+  - Yongmei Liu
+  - Craig W. Johnson
+  - Francois Aguet
+  - Kristin G. Ardlie
+  - Robert E. Gerszten
+  - Clary B. Clish
+  - Leslie A. Lange
+  - Jingzhong Ding
+  - Mark O. Goodarzi
+  - "Yii\u2010Der Ida Chen"
+  - Gina M. Peloso
+  - Xiuqing Guo
+  - Maggie A. Stanislawski
+  - Jerome I. Rotter
+  - Stephen S. Rich
+  - Anne E. Justice
+  - "Ching\u2010ti Liu"
+  - Kari North
+  publisher: Obesity
+  date: '2024-11-01'
+  link: https://doi.org/g9x39q
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.03.20.585968
   title: 'EXPLANA: A user-friendly workflow for EXPLoratory ANAlysis and feature selection
     in cross-sectional and longitudinal microbiome studies'
@@ -16,6 +307,22 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2024/08/15/2024.03.20.585968/F1.medium.gif
+- id: pmid:38095449
+  title: Poly-omic risk scores predict inflammatory bowel disease diagnosis.
+  authors:
+  - Christopher H Arehart
+  - John D Sterrett
+  - Rosanna L Garris
+  - Ruth E Quispe-Pilco
+  - Christopher R Gignoux
+  - Luke M Evans
+  - Maggie A Stanislawski
+  publisher: mSystems
+  date: '2023-12-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38095449
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s43856-023-00359-w
   title: 'Treatment effect heterogeneity following type 2 diabetes treatment with
     GLP1-receptor agonists and SGLT2-inhibitors: a systematic review'
@@ -235,6 +542,151 @@
   publisher: Communications Medicine
   date: '2023-10-05'
   link: https://doi.org/g9q9dm
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-023-01518-4
+  title: Multi-ancestry genome-wide study identifies effector genes and druggable
+    pathways for coronary artery calcification
+  authors:
+  - Maryam Kavousi
+  - Maxime M. Bos
+  - Hanna J. Barnes
+  - Christian L. Lino Cardenas
+  - Doris Wong
+  - Haojie Lu
+  - Chani J. Hodonsky
+  - Lennart P. L. Landsmeer
+  - Adam W. Turner
+  - Minjung Kho
+  - Natalie R. Hasbani
+  - Paul S. de Vries
+  - Donald W. Bowden
+  - Sandesh Chopade
+  - Joris Deelen
+  - Ernest Diez Benavente
+  - Xiuqing Guo
+  - Edith Hofer
+  - Shih-Jen Hwang
+  - Sharon M. Lutz
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Lotte Slenders
+  - Albert V. Smith
+  - Maggie A. Stanislawski
+  - Jessica van Setten
+  - Quenna Wong
+  - Lisa R. Yanek
+  - Diane M. Becker
+  - Marian Beekman
+  - Matthew J. Budoff
+  - Mary F. Feitosa
+  - Chris Finan
+  - Austin T. Hilliard
+  - Sharon L. R. Kardia
+  - Jason C. Kovacic
+  - Brian G. Kral
+  - Carl D. Langefeld
+  - Lenore J. Launer
+  - Shaista Malik
+  - Firdaus A. A. Mohamed Hoesein
+  - Michal Mokry
+  - Reinhold Schmidt
+  - Jennifer A. Smith
+  - Kent D. Taylor
+  - James G. Terry
+  - Jeroen van der Grond
+  - Joyce van Meurs
+  - Rozemarijn Vliegenthart
+  - Jianzhao Xu
+  - Kendra A. Young
+  - "Nuno R. Zilh\xE3o"
+  - Robert Zweiker
+  - Themistocles L. Assimes
+  - Lewis C. Becker
+  - Daniel Bos
+  - J. Jeffrey Carr
+  - L. Adrienne Cupples
+  - Dominique P. v. de Kleijn
+  - Menno de Winther
+  - Hester M. den Ruijter
+  - Myriam Fornage
+  - Barry I. Freedman
+  - Vilmundur Gudnason
+  - Aroon D. Hingorani
+  - John E. Hokanson
+  - M. Arfan Ikram
+  - "Ivana I\u0161gum"
+  - David R. Jacobs
+  - "Mika K\xE4h\xF6nen"
+  - Leslie A. Lange
+  - "Terho Lehtim\xE4ki"
+  - Gerard Pasterkamp
+  - Olli T. Raitakari
+  - Helena Schmidt
+  - P. Eline Slagboom
+  - "Andr\xE9 G. Uitterlinden"
+  - Meike W. Vernooij
+  - Joshua C. Bis
+  - Nora Franceschini
+  - Bruce M. Psaty
+  - Wendy S. Post
+  - Jerome I. Rotter
+  - "Johan L. M. Bj\xF6rkegren"
+  - "Christopher J. O\u2019Donnell"
+  - Lawrence F. Bielak
+  - Patricia A. Peyser
+  - Rajeev Malhotra
+  - Sander W. van der Laan
+  - Clint L. Miller
+  publisher: Nature Genetics
+  date: '2023-09-28'
+  link: https://doi.org/gss9wh
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/nu15163588
+  title: The Microbiome, Epigenome, and Diet in Adults with Obesity during Behavioral
+    Weight Loss
+  authors:
+  - Emily B. Hill
+  - Iain R. Konigsberg
+  - Diana Ir
+  - Daniel N. Frank
+  - Purevsuren Jambal
+  - Elizabeth M. Litkowski
+  - Ethan M. Lange
+  - Leslie A. Lange
+  - Danielle M. Ostendorf
+  - Jared J. Scorsone
+  - Liza Wayland
+  - Kristen Bing
+  - Paul S. MacLean
+  - Edward L. Melanson
+  - Daniel H. Bessesen
+  - Victoria A. Catenacci
+  - Maggie A. Stanislawski
+  - Sarah J. Borengasser
+  publisher: Nutrients
+  date: '2023-08-16'
+  link: https://doi.org/gtt6d8
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-023-33719-6
+  title: Human microbiome transfer in the built environment differs based on occupants,
+    objects, and buildings
+  authors:
+  - Andrew J. Hoisington
+  - Christopher E. Stamper
+  - Katherine L. Bates
+  - Maggie A. Stanislawski
+  - Michael C. Flux
+  - Teodor T. Postolache
+  - Christopher A. Lowry
+  - Lisa A. Brenner
+  publisher: Scientific Reports
+  date: '2023-04-20'
+  link: https://doi.org/g9x39r
   orcid: 0000-0001-7768-8868
   plugin: orcid.py
   file: orcid.yaml
@@ -1270,8 +1722,9 @@
   date: '2025-04-07'
   link: https://doi.org/g9q9d5
   orcid: 0000-0001-7603-1442
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.lww.com/_layouts/oaks.journals/ImageView.aspx?k=jasn:2025:08000:00008&i=ga&year=2025&issue=08000&article=00008
 - id: doi:10.1159/000546100
   title: Type 2 diabetes polygenic risk score interactions with lifestyle risk factors
     in Black Americans
@@ -1440,35 +1893,6 @@
   date: '2023-12-13'
   link: https://doi.org/gs8wz2
   orcid: 0000-0003-2113-0077
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.06.18.25329573
-  title: Ancestry Calibration of Polygenic Risk Scores Improves Risk Stratification
-    and Effect Estimation in African American Adults
-  authors:
-  - Luciana B. Vargas
-  - Mariah C. Meyer
-  - Iain R. Konigsberg
-  - Aastha Kakar
-  - Patrick M. Carry
-  - Yun Li
-  - Alana C. Jones
-  - Hemant K. Tiwari
-  - Vinodh Srinivasasainagendra
-  - Nicole D. Armstrong
-  - Eimear E. Kenny
-  - Bogdan Pasaniuc
-  - Marguerite R. Irvin
-  - Michael H. Cho
-  - Maggie A. Stanislawski
-  - Sridharan Raghavan
-  - Jonathan A. Shortt
-  - Leslie A. Lange
-  - Ethan M. Lange
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-18'
-  link: https://doi.org/g9q9fd
-  orcid: 0009-0001-5192-1286
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00280-023-04503-0
