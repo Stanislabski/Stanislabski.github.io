@@ -81,9 +81,8 @@
   date: '2025-08-13'
   link: https://doi.org/g9x39m
   orcid: 0000-0001-7768-8868
-  plugin: sources.py
-  file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-62730-w/MediaObjects/41467_2025_62730_Fig1_HTML.png?as=webp
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:40451158
   title: Type 2 Diabetes Polygenic Risk Score Interactions with Lifestyle Risk Factors
     in Black Americans.
@@ -305,9 +304,8 @@
   date: '2024-03-23'
   link: https://doi.org/g9q9dk
   orcid: 0000-0001-7603-1442
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2024/08/15/2024.03.20.585968/F1.medium.gif
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:38095449
   title: Poly-omic risk scores predict inflammatory bowel disease diagnosis.
   authors:
@@ -1641,9 +1639,8 @@
   date: '2025-04-01'
   link: https://doi.org/g9q9d2
   orcid: 0000-0001-9019-0730
-  plugin: sources.py
-  file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211320725000119-ga1.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/bioengineering12040366
   title: Exploring Feature Selection with Deep Learning for Kidney Tissue Microarray
     Classification Using Infrared Spectral Imaging
@@ -1762,9 +1759,8 @@
   date: '2025-05-30'
   link: https://doi.org/g9sgz4
   orcid: 0009-0001-5192-1286
-  plugin: sources.py
-  file: sources.yaml
-  image: https://karger.silverchair-cdn.com/karger/content_public/journal/lfg/18/1/10.1159_000546100/2/m_000546100_ga.jpeg?Expires=1760504895&Signature=kCksGH-A366q78AhtJTQdKR-URBVO54qq5ZRn50RVSOonvM3iLNdneMY8-YDp4ru1QRONxDRpc77V-BOWdrzMQLgT3JW41JRZh8bPHLeZRmKIG6XjlFwvC0Cv4HQz4IKvpXrcw2hGQBiiqmbjFIq5GYZ6JEnuAsoFnPoVpoq0YJqQ9hHPtrcKpQcyeSgdGtZ4Z2Q5lDYz2xCUZsYuB7JAKWyU9N75CbxWNg7WovQoo~GJOxe2ntkYQ5F2AN8FAwTLRUWebZ6fNPmBPdd-iiIDgfQEGwy31I2-2D8B5aCCDjf8ZFXxbOb~yBCEEuk1lDObjvLXXJV9bpiqQEeT9Lncg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.01.17.633486
   title: Histone deacetylase-1 is required for epigenome stability in<i>Neurospora
     crassa</i>
