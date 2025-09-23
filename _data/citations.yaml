@@ -1618,6 +1618,21 @@
   orcid: 0000-0001-7768-8868
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/advs.202503289
+  title: "CellPhenoX: An Explainable Machine Learning Method for Identifying Cell\
+    \ Phenotypes To Predict Clinical Outcomes from Single\u2010Cell Multi\u2010Omics"
+  authors:
+  - Jade Young
+  - Jun Inamo
+  - Zachary Caterer
+  - Revanth Krishna
+  - Fan Zhang
+  publisher: Advanced Science
+  date: '2025-09-23'
+  link: https://doi.org/g94kfq
+  orcid: 0000-0001-9019-0730
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ijpddr.2025.100588
   title: A graphical user interface for wrmXpress 2.0 streamlines helminth phenotypic
     screening
@@ -1762,7 +1777,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.01.17.633486
-  title: Histone deacetylase-1 is required for epigenome stability in<i>Neurospora
+  title: Histone deacetylase-1 is required for epigenome stability in <i>Neurospora
     crassa</i>
   authors:
   - Felicia Ebot-Ojong
