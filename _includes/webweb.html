@@ -1,0 +1,32 @@
+<div id="webweb-container" style="width: 100%; max-width: 800px; margin: 0 auto;"></div>
+
+<script type="text/javascript">
+    var wwdata = {{ include.webweb_json | jsonify }};
+    wwdata.display.attachWebwebToElementWithId = "webweb-container";
+    wwdata.display.gravity = 0.7;
+
+    {% if include.responsive == true %}
+    wwdata.display.width = undefined;
+    wwdata.display.height = undefined;
+    {% else %}
+    wwdata.display.width = {{ include.width | default: 600 }};
+    wwdata.display.height = {{ include.height | default: 600 }};
+    {% endif %}
+
+    {% if include.fix_width == false %}
+    wwdata.display.width = undefined;
+    {% endif %}
+
+    {% if include.fix_height == false %}
+    wwdata.display.height = undefined;
+    {% endif %}
+</script>
+
+<script type="text/javascript" src="{{ '_scripts/webweb.bundle.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
+
+<div style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">
+    <span style="color: #E01E7B;">●</span> Lab Members &nbsp;
+    <span style="color: #9d1557;">●</span> Alumni &nbsp;
+    <span style="color: #1C7BE0;">●</span> Papers &nbsp;
+    <span style="color: #999999;">●</span> Collaborators
+</div>

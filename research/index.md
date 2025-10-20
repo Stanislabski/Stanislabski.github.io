@@ -19,6 +19,10 @@ We partner with clinical dietary and exercise intervention studies in order to u
 ## Investigating omic pathways in diverse populations
 We aim to understand how the relationship between molecular profiles, such as genetics, the microbiome, DNA methylation, and metabolomic profiles, vary across diverse populations, and to leverage this understanding to investigate their role in cardiometabolic and inflammatory diseases. We do this using data from large epidemiological cohort studies and biobanks, evaluating how factors such as race/ethnicity, diet, age, and socioeconomic status impact the association of genetic and other omic profiles with cardiometabolic conditions.
 
+## Collaboration Network
+
+{% include webweb.html webweb_json=site.data.webweb width=600 height=600 %}
+
 {% include section.html %}
 
 ## All
