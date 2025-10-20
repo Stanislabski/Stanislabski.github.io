@@ -1694,6 +1694,48 @@
   orcid: 0000-0001-9019-0730
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1073/pnas.2503876122
+  title: "HISTONE DEACETYLASE-1 is required for epigenome stability in\n         \
+    \   <i>Neurospora crassa</i>"
+  authors:
+  - Felicia Ebot-Ojong
+  - Aileen R. Ferraro
+  - Rochelle E. Yap
+  - Farh Kaddar
+  - Clayton Hull-Crew
+  - Ashley W. Scadden
+  - Abigail M. Deaven
+  - Andrew D. Klocko
+  - Zachary A. Lewis
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2025-09-29'
+  link: https://doi.org/g95wqh
+  orcid: 0000-0001-7603-1442
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12882-025-04425-4
+  title: A multi-ethnic polygenic risk score for chronic kidney disease is associated
+    with increased risk of hypertension in African American individuals
+  authors:
+  - Aastha Kakar
+  - Elizabeth M. Litkowski
+  - Ashley W. Scadden
+  - Mohammad Y. Anwar
+  - Iain R. Konigsberg
+  - Maggie A. Stanislawski
+  - Natalie C. DuPre
+  - Riten Mitra
+  - Richard Baumgartner
+  - Laura M. Raffield
+  - Ethan M. Lange
+  - Leslie A. Lange
+  - Kira C. Taylor
+  publisher: BMC Nephrology
+  date: '2025-09-26'
+  link: https://doi.org/g95wqj
+  orcid: 0009-0001-5192-1286
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1681/ASN.0000000688
   title: Alterations in DNA Methylation, Proteomic, and Metabolomic Profiles in African
     Ancestry Populations with APOL1 Risk Alleles
