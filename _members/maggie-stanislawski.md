@@ -15,8 +15,6 @@ aliases:
   - M A. Stansilawski
   - M. Stanislawski
   - M Stanislawski
-  # - J. Smith
-  # - J Smith
 links:
   orcid: 0000-0001-7768-8868
   email: maggie.stanislawski@cuanschutz.edu

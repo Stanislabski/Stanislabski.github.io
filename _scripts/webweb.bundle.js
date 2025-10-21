@@ -7040,3 +7040,63 @@
 
     /******/
 });
+
+
+// Responsive webweb initialization
+(function () {
+  // Wait for DOM to be ready
+  function initResponsiveWebweb() {
+    var container = document.getElementById('webweb-container');
+    if (!container) return;
+
+    // Check if wwdata exists (should be set by the HTML template)
+    if (typeof wwdata === 'undefined') {
+      console.error('wwdata not found - make sure it is defined before loading webweb.bundle.js');
+      return;
+    }
+
+    // Calculate responsive dimensions
+    function getResponsiveDimensions() {
+      var containerWidth = container.offsetWidth;
+      var responsiveHeight = Math.min(Math.max(containerWidth * 0.75, 400), 600);
+      return {
+        width: containerWidth,
+        height: responsiveHeight
+      };
+    }
+
+    // Set initial dimensions
+    var dimensions = getResponsiveDimensions();
+    wwdata.display.width = dimensions.width;
+    wwdata.display.height = dimensions.height;
+
+    // Draw the network
+    var web = new webweb.Web(wwdata);
+    web.draw();
+
+    // Handle window resize
+    var resizeTimeout;
+    window.addEventListener('resize', function () {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(function () {
+        var newDimensions = getResponsiveDimensions();
+
+        // Update dimensions
+        wwdata.display.width = newDimensions.width;
+        wwdata.display.height = newDimensions.height;
+
+        // Clear and re-render
+        container.innerHTML = '';
+        var web = new webweb.Web(wwdata);
+        web.draw();
+      }, 250);
+    });
+  }
+
+  // Initialize when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initResponsiveWebweb);
+  } else {
+    initResponsiveWebweb();
+  }
+})();

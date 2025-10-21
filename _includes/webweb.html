@@ -22,11 +22,21 @@
     {% endif %}
 </script>
 
-<script type="text/javascript" src="{{ '_scripts/webweb.bundle.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
+<script type="text/javascript"
+    src="{{ '_scripts/webweb.bundle.js' | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
 
-<div style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">
-    <span style="color: #E01E7B;">●</span> Lab Members &nbsp;
-    <span style="color: #9d1557;">●</span> Alumni &nbsp;
-    <span style="color: #1C7BE0;">●</span> Papers &nbsp;
-    <span style="color: #999999;">●</span> Collaborators
+<div class="webweb-legend">
+    <span class="legend-item">
+        <span class="legend-dot" style="color: {{ site.data.webweb-config.colors.lab_member }};">●</span> Lab Members
+    </span>
+    <span class="legend-item">
+        <span class="legend-dot" style="color: {{ site.data.webweb-config.colors.alumni }};">●</span> Alumni
+    </span>
+    <span class="legend-item">
+        <span class="legend-dot" style="color: {{ site.data.webweb-config.colors.paper }};">●</span> Papers
+    </span>
+    <span class="legend-item">
+        <span class="legend-dot" style="color: {{ site.data.webweb-config.colors.collaborator }};">●</span>
+        Collaborators
+    </span>
 </div>

@@ -1,0 +1,14 @@
+colors:
+  lab_member: "#E01E7B"    # Pink for current lab members
+  alumni: "#9d1557"         # Dark pink for alumni
+  paper: "#1C7BE0"          # Blue for papers
+  collaborator: "#999999"   # Gray for collaborators
+
+sizes:
+  lab_member: 2.0           # Lab members are large
+  alumni: 1.5               # Alumni are medium-large
+  paper: 0.7                # Papers are small
+  collaborator:
+    one_paper: 0.3          # One-off collaborators (< 2 papers)
+    few_papers: 0.5         # 2-4 papers
+    many_papers: 0.9        # 5+ papers
