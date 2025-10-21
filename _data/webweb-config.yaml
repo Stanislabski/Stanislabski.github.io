@@ -6,9 +6,31 @@ colors:
 
 sizes:
   lab_member: 2.0           # Lab members are large
-  alumni: 1.5               # Alumni are medium-large
-  paper: 0.7                # Papers are small
+  alumni: 1.8               # Alumni are medium-large
+  paper: 1.0                # Papers are small
   collaborator:
-    one_paper: 0.3          # One-off collaborators (< 2 papers)
-    few_papers: 0.5         # 2-4 papers
+    one_paper: 0.5          # One-off collaborators (< 2 papers)
+    few_papers: 0.7         # 2-4 papers
     many_papers: 0.9        # 5+ papers
+
+display:
+  gravity: 0.7              # Force layout gravity
+  width: 600                # Default width (overridden by responsive JS)
+  height: 600               # Default height (overridden by responsive JS)
+  scaleLinkOpacity: true    # Scale link opacity based on connections
+  scaleLinkWidth: true      # Scale link width based on connections
+  hideMenu: true            # Hide the webweb menu
+  showLegend: false         # Hide the built-in legend (we use custom)
+  
+scales:
+  nodeSize:
+    min: 0.5                # Minimum node size (smallest collaborators)
+    max: 2.0                # Maximum node size (lab members)
+
+# Text/label styling
+labels:
+  fontSize: 14              # Base font size for labels
+  fontColor: "#333333"      # Dark gray text color
+  fontOutline: true         # Add white outline to text
+  fontOutlineColor: "#FFFFFF"  # White outline color
+  fontOutlineWidth: 3       # Outline width in pixels

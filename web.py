@@ -18,11 +18,14 @@ def load_yaml(path):
 
 
 def load_config():
-    """Load color and size definitions from config file"""
+    """Load all configuration from config file"""
     config = load_yaml(WEBWEB_CONFIG_PATH)
     
     colors = config.get("colors", {})
     sizes = config.get("sizes", {})
+    display = config.get("display", {})
+    scales = config.get("scales", {})
+    labels = config.get("labels", {})
     
     return {
         "colors": {
@@ -40,6 +43,28 @@ def load_config():
                 "few_papers": sizes.get("collaborator", {}).get("few_papers", 0.5),
                 "many_papers": sizes.get("collaborator", {}).get("many_papers", 0.9),
             }
+        },
+        "display": {
+            "gravity": display.get("gravity", 0.7),
+            "width": display.get("width", 600),
+            "height": display.get("height", 600),
+            "scaleLinkOpacity": display.get("scaleLinkOpacity", True),
+            "scaleLinkWidth": display.get("scaleLinkWidth", True),
+            "hideMenu": display.get("hideMenu", True),
+            "showLegend": display.get("showLegend", False),
+        },
+        "scales": {
+            "nodeSize": {
+                "min": scales.get("nodeSize", {}).get("min", 0.3),
+                "max": scales.get("nodeSize", {}).get("max", 2.0),
+            }
+        },
+        "labels": {
+            "fontSize": labels.get("fontSize", 14),
+            "fontColor": labels.get("fontColor", "#333333"),
+            "fontOutline": labels.get("fontOutline", True),
+            "fontOutlineColor": labels.get("fontOutlineColor", "#FFFFFF"),
+            "fontOutlineWidth": labels.get("fontOutlineWidth", 3),
         }
     }
 
@@ -105,15 +130,12 @@ def make_network(members, citations):
     config = load_config()
     colors = config["colors"]
     sizes = config["sizes"]
+    display_config = config["display"]
+    scales_config = config["scales"]
+    labels_config = config["labels"]
     
     # Create name mapping for quick lookup
     name_map = create_name_to_member_map(members)
-    
-    # DEBUG: Print the name map for Maggie
-    print("\n=== DEBUG: Name mappings for Maggie ===")
-    for name, info in name_map.items():
-        if "Maggie" in name or "Stanislawski" in name:
-            print(f"'{name}' -> '{info['canonical_name']}'")
     
     # FIRST: Set up lab member and alumni nodes so they exist before processing papers
     for member in members:
@@ -150,15 +172,6 @@ def make_network(members, citations):
         for author in authors:
             cleaned_author = clean_name(author)
             
-            # DEBUG: Check if this is Maggie
-            if "Maggie" in cleaned_author and "Stanislawski" in cleaned_author:
-                print(f"\n=== DEBUG: Processing author ===")
-                print(f"Original: '{author}'")
-                print(f"Cleaned: '{cleaned_author}'")
-                print(f"In name_map: {cleaned_author in name_map}")
-                if cleaned_author in name_map:
-                    print(f"Maps to: '{name_map[cleaned_author]['canonical_name']}'")
-            
             # Check if this author is a lab member (or alias of one)
             if cleaned_author in name_map:
                 # Use the canonical name - this ensures aliases map to the same node
@@ -176,13 +189,6 @@ def make_network(members, citations):
         if name not in nodes:
             nodes[name]["name"] = name
             nodes[name]["kind"] = "collaborator"
-    
-    # Print connection counts for debugging
-    # print("\nTop 20 collaborators by paper count:")
-    for name, connections in sorted(collaborator_connections.items(), 
-                                   key=lambda x: len(x[1]), reverse=True)[:20]:
-        kind = nodes[name].get("kind", "unknown")
-        # print(f"{name} ({kind}): {len(connections)}")
     
     # Set size and color based on node kind and connection count
     for node in nodes:
@@ -210,23 +216,22 @@ def make_network(members, citations):
 
         nodes[node]["size"] = size
     
-    # Create and configure the web
+    # Create and configure the web using config values
     web = Web(adjacency=edges, nodes=dict(nodes))
     web.display.sizeBy = "size"
     web.display.colorBy = "color"
-    web.display.hideMenu = True
-    web.display.showLegend = False
-    web.display.gravity = 0.7
-    web.display.width = 600
-    web.display.height = 600
-    web.display.scaleLinkOpacity = True
-    web.display.scaleLinkWidth = True
-    web.display.scales = {
-        "nodeSize": {
-            "min": 0.7,
-            "max": 2,
-        }
-    }
+    web.display.hideMenu = display_config["hideMenu"]
+    web.display.showLegend = display_config["showLegend"]
+    web.display.gravity = display_config["gravity"]
+    web.display.width = display_config["width"]
+    web.display.height = display_config["height"]
+    web.display.scaleLinkOpacity = display_config["scaleLinkOpacity"]
+    web.display.scaleLinkWidth = display_config["scaleLinkWidth"]
+    web.display.scales = scales_config
+    
+    # Add label styling
+    web.display.nameFontSize = labels_config["fontSize"]
+    web.display.nameFontColor = labels_config["fontColor"]
     
     # Save
     WEBWEB_JSON_PATH.write_text(web.json)
