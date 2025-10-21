@@ -124,6 +124,46 @@ $color-collaborator: {
     height: auto;
 }
 
+// Style the text labels with outline for better readability
+#webweb-visualization-container text {
+    paint-order: stroke fill;
+
+    stroke: {
+            {
+            site.data.webweb-config.labels.fontOutlineColor
+        }
+    }
+
+    ;
+
+    stroke-width: {
+            {
+            site.data.webweb-config.labels.fontOutlineWidth
+        }
+    }
+
+    px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+
+    fill: {
+            {
+            site.data.webweb-config.labels.fontColor
+        }
+    }
+
+    ;
+
+    font-size: {
+            {
+            site.data.webweb-config.labels.fontSize
+        }
+    }
+
+    px;
+    font-weight: 500;
+}
+
 .webweb-controls {
     background-color: transparent;
     display: none !important;
