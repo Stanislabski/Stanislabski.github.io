@@ -1,6 +1,6 @@
 ---
 name: Aastha Kakar
-image: images/team/aastha_kakar.jpg
+image: images/team/aastha-kakar.jpg
 role: postdoc
 aliases:
   - Aastha Kakar

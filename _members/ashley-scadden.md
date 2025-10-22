@@ -1,6 +1,6 @@
 ---
 name: Ashley Scadden
-image: images/team/ashley.jpg
+image: images/team/ashley-scadden.jpg
 role: research-assistant
 aliases:
   - Ashley W. Scadden

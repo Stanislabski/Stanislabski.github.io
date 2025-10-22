@@ -7,6 +7,7 @@ aliases:
   - Maggie Stanislawski
   - Maggie A. Stanislawski
   - Maggie A Stanislawski
+  - Maggie A Stanislawksi
   - M Stanislawski
   - M. Stanislawski
   - M. A. Stanislawski

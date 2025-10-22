@@ -1,6 +1,6 @@
 ---
 name: Zachary Caterer
-image: images/team/zc.jpg
+image: images/team/zachary-caterer.jpg
 role: phd
 aliases:
   - Zachary Caterer
