@@ -360,6 +360,10 @@
 
   <script src="/_scripts/fetch-tags.js"></script>
 
+  <script src="/_scripts/gallery.js"></script>
+
+  <script src="/_scripts/gallery.py"></script>
+
   <script src="/_scripts/search.js"></script>
 
   <script src="/_scripts/site-search.js"></script>
@@ -588,6 +592,31 @@
 <h2 id="alumni">Alumni</h2>
 
 <p>Our former lab members have made meaningful contributions that continue to shape our work. Whether they’ve pursued careers in academia, industry, or other paths, they will always remain part of our broader lab community.</p>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Photo Gallery</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Fancybox for lightbox -->
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css">
+    <style>
+    </style>
+
+
+<div class="container mx-auto">
+    <br>
+    <h2>Lab Photo Gallery</h2>
+    <section class="text-neutral-700">
+        <div id="gallery-container" class="container w-full">
+            <!-- Loading message -->
+            <div id="loading" class="text-center py-10">
+                <p class="text-gray-500 dark:text-gray-400">Loading gallery...</p>
+            </div>
+        </div>
+    </section>
+</div>
   </section>
 
   
