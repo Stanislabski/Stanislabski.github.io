@@ -58,7 +58,7 @@ jobs:
 
       - name: Generate gallery metadata
         if: github.event.action != 'closed'
-        run: python _scripts/generate_gallery_metadata.py
+        run: python _scripts/gallery.py
         timeout-minutes: 3
 
       - name: Check if gallery.json changed
