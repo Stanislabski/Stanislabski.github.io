@@ -23,7 +23,12 @@ jobs:
     needs: update-citations
     if: github.run_number != 1
     uses: ./.github/workflows/update-network.yaml
+  
+  update-gallery:
+    needs: update-citations
+    if: github.run_number != 1
+    uses: ./.github/workflows/update-gallery.yaml
 
   build-site:
-    needs: [update-citations, update-network]
+    needs: [update-citations, update-network, update-gallery]
     uses: ./.github/workflows/build-site.yaml

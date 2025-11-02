@@ -42,4 +42,6 @@ Our former lab members have made meaningful contributions that continue to shape
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
+{% include gallery.html %}
+
 {% include section.html %}
