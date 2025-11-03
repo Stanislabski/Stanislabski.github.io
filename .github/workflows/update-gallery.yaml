@@ -77,6 +77,7 @@ jobs:
         with:
           commit_message: "Update gallery metadata"
           file_pattern: "images/lab/gallery.json"
+          pull_before_push: true        # 👈 key addition to handle concurrent pushes safely
 
     outputs:
       changed: ${{ steps.changed.outputs.files_changed || false }}
