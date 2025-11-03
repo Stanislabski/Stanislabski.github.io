@@ -14,19 +14,16 @@ permissions:
   pull-requests: write
 
 jobs:
+
   update-citations:
-    # skip first run because nothing enabled or setup yet
-    if: github.run_number != 1
     uses: ./.github/workflows/update-citations.yaml
 
   update-network:
     needs: update-citations
-    if: github.run_number != 1
     uses: ./.github/workflows/update-network.yaml
   
   update-gallery:
-    needs: update-citations
-    if: github.run_number != 1
+    needs: update-network
     uses: ./.github/workflows/update-gallery.yaml
 
   build-site:
