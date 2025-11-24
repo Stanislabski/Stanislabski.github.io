@@ -1,5 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-025-65028-z
+  title: Relationships among host genetics, gut microbiota, and asthma in US Hispanic/Latino
+    adults
+  authors:
+  - Maggie A. Stanislawski
+  - Elizabeth Litkowski
+  - Christopher H. Arehart
+  - Kai Luo
+  - Niles Gilmore
+  - Leslie A. Lange
+  - Ethan M. Lange
+  - Kathleen Barnes
+  - Christy L. Avery
+  - Katie A. Meyer
+  - Fernando Holguin
+  - Kari E. North
+  - Robert D. Burk
+  - Robert C. Kaplan
+  publisher: Nature Communications
+  date: '2025-11-20'
+  link: https://doi.org/hbb8mh
+  orcid: 0000-0001-7768-8868
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-025-62730-w
   title: Modeling the genomic architecture of adiposity and anthropometrics across
     the lifespan
