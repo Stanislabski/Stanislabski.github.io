@@ -3,10 +3,8 @@ run-name: on schedule
 
 on:
   schedule:
-    # weekly
+    # every Monday at midnight UTC
     - cron: "0 0 * * 1"
-
-  # run if user manually requests it
   workflow_dispatch:
 
 permissions:
@@ -15,8 +13,18 @@ permissions:
 
 jobs:
   update-citations:
-    # only run on user instance of template, not template itself
-    if: github.repository != 'greenelab/lab-website-template'
     uses: ./.github/workflows/update-citations.yaml
     with:
       open-pr: true
+
+  update-network:
+    needs: update-citations
+    uses: ./.github/workflows/update-network.yaml
+
+  update-gallery:
+    needs: update-network
+    uses: ./.github/workflows/update-gallery.yaml
+
+  build-site:
+    needs: [update-citations, update-network, update-gallery]
+    uses: ./.github/workflows/build-site.yaml
