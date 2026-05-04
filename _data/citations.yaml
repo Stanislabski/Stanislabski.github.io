@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/bioinformatics/btaf658
+  title: 'EXPLANA: a user-friendly workflow for EXPLoratory ANAlysis and feature selection
+    in cross-sectional and longitudinal microbiome studies'
+  authors:
+  - Jennifer Fouquier
+  - Maggie Stanislawski
+  - "John O\u2019Connor"
+  - Ashley Scadden
+  - Catherine Lozupone
+  publisher: Bioinformatics
+  date: '2025-12-19'
+  link: https://doi.org/hbjnc3
+  orcid: 0000-0001-7603-1442
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-025-65028-z
   title: Relationships among host genetics, gut microbiota, and asthma in US Hispanic/Latino
     adults
@@ -242,7 +257,7 @@
   - Jonathan A. Shortt
   - Leslie A. Lange
   - Ethan M. Lange
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-06-18'
   link: https://doi.org/g9q9fd
   orcid: 0009-0001-5192-1286
@@ -275,7 +290,7 @@
   - Jerome I. Rotter
   - Ethan M. Lange
   - Leslie A. Lange
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-01-16'
   link: https://doi.org/g9x39p
   orcid: 0000-0001-7768-8868
@@ -326,7 +341,7 @@
   - "John O\u2019Connor"
   - Ashley Scadden
   - Catherine Lozupone
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-03-23'
   link: https://doi.org/g9q9dk
   orcid: 0000-0001-7603-1442
@@ -726,7 +741,7 @@
   - Christopher R. Gignoux
   - Luke M. Evans
   - Maggie A. Stanislawski
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-09-17'
   link: https://doi.org/g9q9dn
   orcid: 0000-0001-7768-8868
@@ -1703,21 +1718,6 @@
   orcid: 0000-0001-9019-0730
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.01.24.634132
-  title: 'CellPhenoX: An eXplainable Cell-specific machine learning method to predict
-    clinical Phenotypes using single-cell multi-omics'
-  authors:
-  - Jade Young
-  - Jun Inamo
-  - Zachary Caterer
-  - Revanth Krishna
-  - Fan Zhang
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-01-27'
-  link: https://doi.org/g9q9d4
-  orcid: 0000-0001-9019-0730
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1073/pnas.2503876122
   title: "HISTONE DEACETYLASE-1 is required for epigenome stability in\n         \
     \   <i>Neurospora crassa</i>"
@@ -1850,8 +1850,8 @@
   file: sources.yaml
   image: https://karger.silverchair-cdn.com/karger/content_public/journal/lfg/18/1/10.1159_000546100/1/m_000546100_ga.jpeg?Expires=1756687471&Signature=l01VEIYJjL18Y8e7pZgpKKqXTPueiN2z5IrF9OSa40eFDME1Du2WpyLXwvMLJ-nqylyQKlntqNM~XDbavPUzvHjZyFVyCSBtlidVLuGxjIx6r2kSbirR4CwBXOZ5g64XuaIVc-0krKyMUEeV1U3mAqxoyuuKG32mqbgWvQhirZgPPwHh913q-2g45hOp7RMEIZ6mbUPid9cGvPZwQ3oKyKPyImBnYCZ4qanEt7RFT5qm7IDFbbZbl2moqzVlAqcmJomJNneC45GnocBjaeL5VP6cmPwjW0BYCLtpxVOkXVVLj9E-NmqBhwg8719wkgkxp0IhZGpQSysCQUoRRmGBJQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1101/2025.01.17.633486
-  title: Histone deacetylase-1 is required for epigenome stability in <i>Neurospora
-    crassa</i>
+  title: "Histone deacetylase-1 is required for epigenome stability in\n         \
+    \         <i>Neurospora crassa</i>"
   authors:
   - Felicia Ebot-Ojong
   - Aileen R. Ferraro
@@ -1860,7 +1860,7 @@
   - Ashley W. Scadden
   - Andrew D. Klocko
   - Zachary A. Lewis
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-01-20'
   link: https://doi.org/g9q9d6
   orcid: 0000-0001-7603-1442
@@ -1868,7 +1868,7 @@
   file: orcid.yaml
 - id: doi:10.1073/pnas.2311249120
   title: "Histone deacetylation and cytosine methylation compartmentalize heterochromatic\
-    \ regions in the genome organization of\n            <i>Neurospora crassa</i>"
+    \ regions in the genome organization of\n                    <i>Neurospora crassa</i>"
   authors:
   - Ashley W. Scadden
   - Alayne S. Graybill
@@ -1883,8 +1883,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.07.03.547530
-  title: Histone deacetylation and cytosine methylation compartmentalize heterochromatic
-    regions in the genome organization of<i>Neurospora crassa</i>
+  title: "Histone deacetylation and cytosine methylation compartmentalize heterochromatic\
+    \ regions in the genome organization of\n                  <i>Neurospora crassa</i>"
   authors:
   - Ashley W. Scadden
   - Alayne S. Graybill
@@ -1892,7 +1892,7 @@
   - Tiffany J. Lundberg
   - Nickolas M. Lande
   - Andrew D. Klocko
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-07-03'
   link: https://doi.org/g9q9d8
   orcid: 0000-0001-7603-1442
