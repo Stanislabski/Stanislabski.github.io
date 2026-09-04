@@ -48,6 +48,7 @@
 - title: Genomic Repeat inference from Depth (GRiD)
   group: featured
   image: images/grid.png
+  url: https:/caterer-z-t.github.io/GRiD/
   description: GRiD is a computational pipeline designed for haplotype-resolved estimation of large Variable Number Tandem Repeat (VNTR) copy numbers using sequencing depth. It enables precise, high-throughput analysis of complex, disease-relevant repetitive regions such as Lipoprotein(a) from short-read sequencing data.
   tags:
     - research
